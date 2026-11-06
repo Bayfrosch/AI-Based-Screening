@@ -1,0 +1,204 @@
+[
+  {
+    "paper_id": "paper_4a7875cad45a5cf3990d9aa1dcacdde7",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes session-key leakage and mentions privacy, but identity or personal-data protection beyond channel security is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4bba00fdd33f53ec9e30e8cef722f605",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Vehicular offloading analysis targets data manipulation and sender forgery without a substantive privacy contribution.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_4c3a7a034e815cf0b99bf79a5723e7b7",
+    "decision": "MAYBE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Tests an inference attack against automotive intrusion detection, but the inferred information and privacy implications are unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4d063d41dd8f5f9681466c0e61f613af",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes pseudonym authentication to preserve vehicle privacy on open 5G communication channels.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4d67b152668a53b3a46c1cc804243452",
+    "decision": "MAYBE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I3"
+    ],
+    "reason": "Cellular paging-analysis tooling may support tracking evidence, but privacy findings and mobility transfer are not established in the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4d9c36fb75ed5c5e94bde3969fb8b428",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes location and identity leakage from continuous vehicle-maintenance sensing and evaluates differential-privacy protection.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4eefd08de13c520db7a808f54327f86d",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Coordinated mobility includes privacy among its goals, but the reported attack analysis emphasizes safety rather than concrete privacy findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4f0e57bca9f658128144ef9968e53128",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Authentication tokens may support privacy, but the abstract and privacy keyword do not establish a concrete privacy guarantee.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5138ed89a2455801821cda52c3ec79f8",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Aggregates traffic statistics without revealing individual routes and analyzes conditional anonymity across heterogeneous cryptographic domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_517c3429051d52d78c620dd4b57a4610",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Identifies colluding roadside units revealing vehicle trajectories and failures of anonymity and unlinkability.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_52dccca10b75544ca1d024057ae182b1",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Addresses cooperative-driving consensus, scheduling, latency, and crash tolerance without privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_538e7c8b98d952e2ae2aeef30cb2cdc9",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Decentralized authentication questions trusted control centers, but the abstract does not establish privacy threats or protected information.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_53f920b8c16e5c02a1f1e001c31e214d",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Comprehensive vehicular-fog attack modeling may cover privacy, but the abstract does not identify privacy-specific threats.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_54447649afda55c68712b9b6c0e31dfa",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Conditional privacy is mentioned, but the contribution centers on authentication latency and unforgeability without explaining privacy analysis.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_545af238767053d8b6e07d75a81dd41f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Examines conditional privacy and ring-membership selection in vehicular batch authentication with security analysis.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_549aff73b9e756db9462f5a19b2b38a8",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Uses vehicle pseudo-identities for conditional privacy, but the abstract reports performance without specifying privacy analysis or attack resistance.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_54a32f2d4ea252af9a18867e0bc87f4b",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Broad CAN intrusion-detection survey may contain privacy-relevant attacks, but its abstract does not establish that coverage.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_55e1dcf34c42507e9ea1b715e8a144d9",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Automotive risk-model discussion is too general to determine whether privacy threats are substantively analyzed.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_56c57304a653535eb51b93461910251e",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Demonstrates signature forgery enabling invalid vehicular messages; privacy is introductory context rather than the analyzed harm.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_570d2219ac4458c59e45156b39907a22",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I3"
+    ],
+    "reason": "Generic Web-of-Things authentication mentions privacy and transportation, but concrete privacy protections and mobility transfer need clarification.",
+    "needs_full_text_review": true
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_67901955236f59969da3635b8edd333f",
+    "decision": "MAYBE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Automotive operating-system vulnerability discovery may expose privacy risks, but the abstract does not specify disclosure or personal-data findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_679e2d19e08c5d4e97f8f3b395f40266",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Transportation malware detection invokes sensitive-data protection, but privacy-specific attacks and evaluated protections remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_67fe2d82a85154269d2cd9f6b82a8b13",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular data-delivery access control claims privacy, but the abstract does not specify personal-data risks or privacy guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6839e29e40785a81a849ce7166a564e6",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes colluding roadside units linking authentication records and proposes unlinkable vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_68b16342560e56d29dff6d6055b70b20",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies STRIDE and attack trees to vehicular edge learning, but privacy-specific threat results are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_69cc262ae87358818a39dbf1a9ff8995",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I3"
+    ],
+    "reason": "Analyzes private-data leakage from split-learning activations and collusion; concrete transfer to mobility systems needs justification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_69d6c52c7b355f1ebf8fd342ab55b81c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vessel location tracking, unauthorized data access, and anonymity in maritime transportation authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6b15d70a1327538bb3dacb42be55e62b",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Conditional privacy motivates the scheme, but the described attack findings concern forgery and leave privacy analysis unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6ba882fbac7e539a817b497cb4649279",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive exploitation handbook includes side-channel leakage and backend attacks; its substantive privacy coverage needs clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6cdf3a1f29f35821875ad38342ee76c7",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Develops automotive penetration-testing and fuzzing processes evaluated on CAN FD, without substantive privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_6d1cc4a712575c69ae862ea45abe926d",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Identifies anonymity-exposure attacks in vehicular authentication and evaluates a corrective hierarchical scheme.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6d544f88b0905e2abc754e36dc73f833",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Cloud road-monitoring reports are claimed privacy-protected, but the abstract does not identify privacy exposure or guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6d6da789789f50b893bacf652ccd4d76",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicle registration and authentication with fog-cloud group-key management.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6d7068f463c35c2698ef5c000ca34c95",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models trajectory disclosure to an untrusted crowdsensing platform and protects worker and query-user location privacy.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6e4c5f5371af54f89bcff6e73a1a93c5",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automated automotive attack-path validation may support risk analysis, but privacy-specific threats or findings are unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6f0008b91da256c488014137596a5ae7",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes pseudonymity, confidentiality, and fine-grained data sharing across vehicle digital-twin infrastructure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_70163d2dea7b5a509935bd35b996dd44",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Automotive vulnerability scoring includes a privacy keyword, but concrete privacy impacts and analysis are not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_70a345462a3d53c5bbf7b2c65315ed73",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes leakage of private user data exchanged during vehicle-to-grid charging and evaluates secure authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_731822d8e9ac5e538f5ec1d66327a51e",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Prevents semi-trusted vehicles leaking authentication secrets; the relationship to identity or personal-data privacy requires clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7537f4cca2de5c97b9f0839dbb901a40",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous access and hiding other service subscriptions across space-air-ground vehicular providers.",
+    "needs_full_text_review": true
+  }
+]

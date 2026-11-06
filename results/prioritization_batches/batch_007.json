@@ -1,0 +1,359 @@
+[
+  {
+    "paper_id": "paper_c66d5051f881504287f45d8f7a825cdb",
+    "scores": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Applies STRIDE/LINDDUN to automotive privacy assets and mitigations, directly supporting threat-to-control mapping rather than generic framework comparison."
+  },
+  {
+    "paper_id": "paper_c722ce9423cf5f1a81dcfa24d05decb1",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds revocable downloads, outsourced computation and service-provider attributes, useful complementary access-control context."
+  },
+  {
+    "paper_id": "paper_cbce5fe34f1959128cbc28b7fe0aa694",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides temporary-identity untraceability during base-station handovers, with limited privacy-attack development."
+  },
+  {
+    "paper_id": "paper_cd9423c3840c507f9d709d9311ea12d7",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers post-quantum anonymity, tracing and nonframeability properties; cryptographic construction dominates the abstract."
+  },
+  {
+    "paper_id": "paper_cdfa597ef0f855cea5377e091e16f70f",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly models honest-but-curious charging edge nodes, linking electric-vehicle services to stakeholder anonymity and accountability risks."
+  },
+  {
+    "paper_id": "paper_ce14e7a9ec945a7cbf75a981e4b86b2e",
+    "scores": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Connects exact-location disclosure to malicious access and anonymous authentication, useful supporting location-privacy evidence."
+  },
+  {
+    "paper_id": "paper_ce447a2a8a4b543e8df3d204c1ebbb5b",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains raw-data and intermediate-value confidentiality across learning providers, adding concrete data-sharing context without developed inference scenarios."
+  },
+  {
+    "paper_id": "paper_d537dc3b9ce45ffb92d4c974c72ee413",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides multi-domain anonymity and untraceability properties, primarily through authentication and latency evaluation."
+  },
+  {
+    "paper_id": "paper_d5839f236580573ba16beca91892c22a",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds confidential vehicular social-data sharing under centralized-trust limitations, with limited personal-data and attacker specificity."
+  },
+  {
+    "paper_id": "paper_d6bfc521f64b565ba00636fbf9a668b6",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly analyzes insiders and compromised authorities leaking identities, locations and membership, directly supporting stakeholder threat modeling."
+  },
+  {
+    "paper_id": "paper_d9810e2960f2526983466dc6915112d1",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "R",
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides realistic driver-face sharing and deidentification context; abstract emphasizes retained research utility rather than adversarial re-identification testing."
+  },
+  {
+    "paper_id": "paper_da2d90495e9b532d8a084e7cb1d76239",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Offers anonymity and untraceability against network adversaries, useful complementary authentication evidence."
+  },
+  {
+    "paper_id": "paper_dc066cea496a5651a88607b397279d22",
+    "scores": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Zero-knowledge authentication and controller resilience are described, but concrete privacy exposure or tested privacy properties remain unspecified."
+  },
+  {
+    "paper_id": "paper_dd5315729a4e59679a7c576406ee680c",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds vehicle-identity concealment in drone-assisted communication, with threat details less developed than authentication mechanisms."
+  },
+  {
+    "paper_id": "paper_ddd332dd15385498b54d3b3a2f989719",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Models semi-honest stakeholders and persistent cross-organization control over routes and driving habits, directly supporting data-flow privacy analysis."
+  },
+  {
+    "paper_id": "paper_df44035466d756389c4a91883652bca0",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides anonymous credentials and group-key updates, mainly as supporting protocol mechanisms rather than concrete privacy scenarios."
+  },
+  {
+    "paper_id": "paper_e1088cabd0ec55d5a2852bc3a806a86e",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains sensitive vehicle/driver disclosure through untrusted cloud servers, with explicit stakeholder behavior and protective controls."
+  },
+  {
+    "paper_id": "paper_e15e695a2d045be3bf0b9ec47d60ab7f",
+    "scores": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides privacy-oriented message dissemination under physical and cloning threats, but specific privacy harms remain broad."
+  },
+  {
+    "paper_id": "paper_e20d8925a42356989ff4020b5644eac7",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports administrative/geographic-domain pseudonym management, with conditional privacy rather than detailed tracking scenarios."
+  },
+  {
+    "paper_id": "paper_e479c60a02d9522d98d9d14e9f21643f",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds anonymous identity accountability and cross-domain cloud-query context, mainly complementary authentication and key-management evidence."
+  }
+]

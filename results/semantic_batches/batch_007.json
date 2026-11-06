@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_5743bbf1d7ec598fa8398edd1471a9ea",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Validates a cybersecurity design language on braking-system analysis, emphasizing usability and automation rather than privacy threats.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_575cd4a565755944b50339ec4927ced0",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous authentication during vehicular platoon merging and splitting over open communication channels.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5832900a48695c129790ad4eb98aebf2",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Identifies pseudonym-reuse and revocation limitations and analyzes user-controlled linkability through direct anonymous attestation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5876a6eb2f6a53008907e6abc4fcee20",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes private-information disclosure from spatial-temporal broadcasts and evaluates message anonymity and unlinkability.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5889fb4bf0745197bd8250b29f308d1f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses message linkability during cross-region vehicle authentication with pseudorandom identity and key derivation mechanisms.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_59aa704aed4959fabd5211220f20e1c3",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Pseudonyms motivate the authentication scheme, but the abstract evaluates revocation efficiency without specifying privacy threats or guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5a98bfb6b0335f888eee7fe3f269bb9f",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Reviews transportation key-escrow exposure and user-identity disclosure, analyzing quantum-based privacy mitigation concepts.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5aac84f4a0135452b8becee0c157b956",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes private management of vehicle social identities and pseudonym certificates in transparency-log infrastructure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5af29268414850418a556d8d097c7dcc",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes behavioral privacy leakage and the tension between vehicle anonymity and identifying malicious advertising participants.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5ca39c963bba50258c751e8705ccd200",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymity, traceability, key escrow, and authority supervision across vehicular authentication domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5d4deb7c85315926af3adc76a9a03901",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive attack-graph automation may support architectural analysis, but the abstract does not establish a privacy-focused use.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5df36478f1b154678e46ecf6a565ab0c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates protection against inference attacks on federated object-detection training in intelligent transportation systems.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_5f6f95b6d2925ba8b5d463211c4964f1",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle identity privacy and traceability within edge-assisted 5G authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_600f557dcab05a89b3008c5ba954ad41",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Automotive TARA may address privacy across data-sharing architectures, but the abstract emphasizes safety and does not specify privacy findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_6010887705fb5f56aa8308b379e5c2ab",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Integrates intrusion-detection patterns into emergency-braking safety engineering without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_62a103174d585d1781282b422acd0372",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes hidden access policies, confidential vehicular queries, and forward/backward-secure sharing in social networks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_633f6828c3635f7cbd651a023491a86c",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Optimizes CAN timing and message authentication for safety, without privacy threat analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_64167047716d56ad9f0f11330fbd4120",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Checks integrity of outsourced traffic-control data rather than personal-data privacy or disclosure risks.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_65688dd1e50258cebcab20ce0c147425",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes roadside and navigation-provider linking of identities, locations, origins, destinations, and routes.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_65e18e4473d454999a4dce7da78a76e1",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Fog-based handover authentication mentions privacy attacks, but concrete privacy properties and exposures are unspecified.",
+    "needs_full_text_review": true
+  }
+]

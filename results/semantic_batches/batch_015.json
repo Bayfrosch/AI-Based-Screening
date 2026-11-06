@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_c7c43ca1477651d5a41c84de16ecf567",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Vehicular cloud auditing targets integrity, availability, redundancy, and key-exposure resilience without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_c8ca57b910b856b8b5c5e5dce39a1224",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models maritime DNS-rebinding attacks and interface access; the concrete personal-data privacy dimension remains unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ca547854a2755e42a253850e63225adf",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I3"
+    ],
+    "reason": "Anonymous IoT sharing analyzes trust and accountability, but its transfer to specific mobility data flows requires justification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_cb631fd3a480556a96b6b6815216f566",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Connected-car expert interviews and breach cases may provide privacy context, but the abstract does not establish privacy-specific findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_cbce5fe34f1959128cbc28b7fe0aa694",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes temporary identities and untraceability during 5G vehicular handovers, including parameter-leakage threats.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_cd9423c3840c507f9d709d9311ea12d7",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicular anonymity, authorized tracing, nonframeability, and revocation under post-quantum threats.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_cdfa597ef0f855cea5377e091e16f70f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models honest-but-curious charging edge nodes and protects electric-vehicle anonymity with accountability.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ce14e7a9ec945a7cbf75a981e4b86b2e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes exact-location disclosure and anonymous vehicle authentication with conditional identification of malicious nodes.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ce447a2a8a4b543e8df3d204c1ebbb5b",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes leakage of original data and intermediate training values among vehicular social-network data providers.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ce6eb296d4055fb8ba23ab1f71e4fc32",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Blockchain authentication reports privacy analysis, but the abstract does not specify protected identities, linkability, or disclosure threats.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d0f01bd8eb205c7cbbcf202f20eb14ed",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Comprehensive CAV attack survey may contain privacy evidence, but privacy-specific coverage is not established by the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d205c593b0ff57d6af5c0a3f4de6dc2b",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Accident-video reporting invokes privacy, but the described contributions concern verification, storage reduction, and latency without specific privacy guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d3148ae799de51fda6ab9fc9948f24a0",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Integrates security audits into automotive development pipelines without substantive privacy analysis or evidence.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_d3c6b63d55c851a992b47273a0785cf0",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Shared-data auditing optimizes integrity verification and revocation efficiency without analyzing personal-data privacy.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_d537dc3b9ce45ffb92d4c974c72ee413",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes autonomous-vehicle anonymity and untraceability through zero-knowledge authentication across roadside domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d5839f236580573ba16beca91892c22a",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes privacy disclosure and confidentiality during vehicular social-data sharing under centralized-trust limitations.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d689b0d9209a53a888ca4b5803e3cafa",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Connected-vehicle payments claim privacy-friendly endorsements, but the privacy exposure and protection properties are insufficiently specified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d6bfc521f64b565ba00636fbf9a668b6",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models compromised authorities and insiders leaking vehicle identities, locations, and membership information.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d7f8ad19872757b3863bce6915b8e4f6",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive hacking overview may offer contextual attacks, but its privacy-specific contribution remains unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d8a4d7107911532ab7f5da1eb5472e4b",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Automotive product-recall management improves supply-chain traceability and transparency without privacy threat analysis.",
+    "needs_full_text_review": false
+  }
+]

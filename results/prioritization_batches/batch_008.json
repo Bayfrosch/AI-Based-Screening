@@ -1,0 +1,353 @@
+[
+  {
+    "paper_id": "paper_e4abc744a7f25dff9c93f5dc15b885a3",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Directly applies STRIDE/LINDDUN to connected-vehicle users and device/cloud interactions, explaining personal-data disclosure and unauthorized access."
+  },
+  {
+    "paper_id": "paper_e5cd085293d15bc6948d69a786bd02c0",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds anonymous caching access and fair incentives, primarily complementary mitigation evidence rather than developed privacy scenarios."
+  },
+  {
+    "paper_id": "paper_e946355572435beea1ff7f36f21fea5a",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports authority trust and key-escrow limitations through vehicle-generated pseudonyms and backward security."
+  },
+  {
+    "paper_id": "paper_e9d150926b9457e2b59686b49eeea6ac",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains centralized sensitive-data breach risks and identity protection, with limited detailed privacy-adversary analysis."
+  },
+  {
+    "paper_id": "paper_ea059a2ed0a8517a813d2f1ee05681f0",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds implicit certificates and conditional tracing to edge authentication, useful supplementary authority-trust context."
+  },
+  {
+    "paper_id": "paper_ea9a9ec8d613500dbf7e03a3bdd30d5f",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies sensitive-content exposure to untrusted caching providers; optimization and blockchain design dominate the developed contribution."
+  },
+  {
+    "paper_id": "paper_ef081d1fd5ee5cfaabe0e6c9d3a3c48a",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "T",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains location, trajectory and identity exposure through misbehavior feedback, illustrating privacy costs of security monitoring."
+  },
+  {
+    "paper_id": "paper_ef1bdd71d9b25de2a4b7f5f8d8787a27",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Evolving pseudonyms and conditional traceability support privacy-mechanism discussion, without developed concrete tracking scenarios."
+  },
+  {
+    "paper_id": "paper_f22e9e553f2a5009bd811ea285c3743c",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "T",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Directly analyzes tracking through linked safety messages and physical key extraction, clarifying privacy assumptions under compromised infrastructure."
+  },
+  {
+    "paper_id": "paper_f26fdcb2b82d5bd98a6ad44e57c07160",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides anonymity and confidentiality across edge-server boundaries, useful complementary handover-authentication evidence."
+  },
+  {
+    "paper_id": "paper_f361231c25105a2ea7ad0df89379bdbf",
+    "scores": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Identifies interception risks for position-bearing V2X messages, but the short abstract provides limited adversary or risk-analysis depth."
+  },
+  {
+    "paper_id": "paper_f4fb9060e036592f8d05985316f2123a",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds conditional anonymity, nonframeability and cross-domain membership changes, chiefly supporting authentication-property discussion."
+  },
+  {
+    "paper_id": "paper_f556b0f850025bf08fecff93747e2c2f",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers anonymous authentication against insiders, without detailed mobility privacy exposures or behavioral scenarios."
+  },
+  {
+    "paper_id": "paper_f5d7e84cd43159de8454008d92023429",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides anonymous authentication and escrow avoidance, with efficiency and signature security more prominent than privacy-threat detail."
+  },
+  {
+    "paper_id": "paper_fa30d84bb56e52129ab5cecb7bc01e11",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Adds anonymous biometric vehicle-user authentication across fog domains, primarily as supplementary mechanism evidence."
+  },
+  {
+    "paper_id": "paper_fa4ca97a945c56318a141b2c06eede14",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers encrypted private-data delivery and hybrid-chain authentication, but concrete privacy threats remain unspecified."
+  },
+  {
+    "paper_id": "paper_fac367275cc657babdedbb237557a2e9",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Anonymous vehicle-cloud key exchange offers complementary channel-protection context without developed privacy attack scenarios."
+  },
+  {
+    "paper_id": "paper_faf4e38ed47f5487a6f54aac51927a9e",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly names linkability and traceability attacks, but develops batch-authentication protection more than detailed privacy harms."
+  },
+  {
+    "paper_id": "paper_fc516d256aa45fd6a32eeec456b602d3",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies privacy shortcomings in LTE-V2X architecture, useful supporting context whose concrete leakage mechanism needs full-text reading."
+  },
+  {
+    "paper_id": "paper_fd2cbc19fdbb546190da09792216d431",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Conditional privacy and identity accountability complement V2V authentication discussion; detailed exposure scenarios are secondary."
+  }
+]

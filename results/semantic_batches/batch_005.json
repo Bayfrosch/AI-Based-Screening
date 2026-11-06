@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_3748b61b107653d58c92fa11d896dcfd",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes hidden access policies, confidentiality, and revocation across vehicular fog-cloud authorization domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_3810e2a5246d5a6da7d04673843af713",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I3"
+    ],
+    "reason": "Satellite data disclosure and access control may offer transferable concepts, but a personal-data mobility connection is not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_38574e34259f56fe954f805fa164dcdb",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Protects location privacy against malicious aggregation participants while analyzing multidimensional vehicular sensor data.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_38ca7ff4b8015867b2b69220265e0275",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Encrypted transportation-data retrieval may protect queries or records, but concrete privacy exposure is not identified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_38e414d6da6859dbacf247780e00450a",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Navigation protocol claims privacy in its title, but the abstract describes only unspecified cryptographic threats and efficiency.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_39b9e73be73353c2babc9df3f4baf427",
+    "decision": "MAYBE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Automotive vulnerability trends may contain disclosure evidence; the abstract does not establish privacy-specific findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_3a50ed3ee41154bfa56a6b4ac1fbbb3f",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Combines SDN and blockchain to reduce network attacks and routing load without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_3c3bcff86be958f0af85e7396b7e736d",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes theft of owner identity and location during vehicle authentication using conditional anonymity and attack scenarios.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_403a84a6b5a65aa6a4772984ec718ff3",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Investigates anonymous vehicular authentication vulnerabilities and mitigates unauthorized access and interception.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_406924559dd15b85b8434c92e5791cdd",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes side-channel private-key exposure and conditional privacy protection in vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_42e1952e201c5097b42f6542f81015d5",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes confidentiality of vehicle sensing data and learned models shared across manufacturers.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_44108b65f1f759118cf68a911eeb1787",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models malicious advertising stakeholders and protects customer-input privacy and unlinkability in V2X proximity marketing.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_44873275c91456deb85a309c3bf90307",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Supports changing vehicle pseudonyms without trusted-authority interaction to preserve privacy in fog authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_44a23050a0455598b71eca63235ff12f",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Analyzes malicious cache poisoning and data-validation integrity rather than privacy threats.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_44a9d417634753f7ab5e49faa69b9a26",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Optimizes vehicular signcryption and safety-message verification without identifying a substantive privacy threat or property.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_4545c967281b58c689f7f22c88be6462",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Explicitly analyzes access control and confidentiality of personally identifiable vehicle information across distributed clouds.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_45e3a25c9bed5958855cdba73ec974a5",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymity alongside authentication and post-quantum attack resistance in V2X communications.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_47b9989b6cf85d408e1c155bae1cd48e",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Reviews privacy and attack models in 6G transportation, but the abstract does not specify privacy-threat findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4964d13ca05c55b2b57da07950c78c9d",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses key escrow and trusted-authority pseudonym storage through vehicle-controlled pseudonym generation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_4a582d9f34105746b94ae5fa2ff2a8b9",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes pseudonym-based anonymity for legitimate vehicles with conditional tracing of malicious participants.",
+    "needs_full_text_review": true
+  }
+]

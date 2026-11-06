@@ -1,0 +1,357 @@
+[
+  {
+    "paper_id": "paper_0071b7b1a39a58beabde8dc0b914d731",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports discussion of side-channel key leakage and unrealistic trusted-device assumptions; privacy-threat detail is secondary."
+  },
+  {
+    "paper_id": "paper_01b490edd7445a809a01651f347b99fd",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains individual feedback disclosure during cloud reputation aggregation; useful complementary stakeholder-privacy evidence."
+  },
+  {
+    "paper_id": "paper_022a16e08d5e5e0ea4c2dcb2c63511d1",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports owner-controlled access to private vehicle data; emphasis remains authentication and quantum-key management."
+  },
+  {
+    "paper_id": "paper_02b2e8e5015b535eac46d4c61713b5e2",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides collision-warning authentication and conditional tracing context, with limited privacy-adversary detail."
+  },
+  {
+    "paper_id": "paper_0398c7540e02547b91fda85abb322e0b",
+    "scores": [
+      0,
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Replay-resistant access control is concrete, but personal-data privacy relevance is insufficiently specified for the central argument."
+  },
+  {
+    "paper_id": "paper_05592320d11352fea7475fd635879117",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers anonymous content-access mechanisms in vehicular networking; threat explanation is less central than protocol design."
+  },
+  {
+    "paper_id": "paper_06633fe9993854879674223304e94422",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains privacy mining and data association by semi-trusted roadside infrastructure, supporting concrete adversarial stakeholder analysis."
+  },
+  {
+    "paper_id": "paper_076b1adfa67b5d2f9b2b36328ff56fc1",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides anonymity and untraceability properties, chiefly as complementary authentication evidence rather than developed privacy scenarios."
+  },
+  {
+    "paper_id": "paper_0a7a0e4adb0850d1a7c99bf588cdbe92",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "R",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supplies identity-guessing and prior-protocol privacy weaknesses; useful supporting cryptanalytic perspective."
+  },
+  {
+    "paper_id": "paper_0b8c8127b259527fa88bc12adba3b5c3",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains malicious publishers and receiver-attribute disclosure through access policies, offering concrete stakeholder and data-flow risks."
+  },
+  {
+    "paper_id": "paper_0e49ffacf5dd568b922a259f06945c16",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Connects sensitive driver behavioral features to semi-honest cloud assumptions, useful for explaining privacy exposure and trust limitations."
+  },
+  {
+    "paper_id": "paper_0f767f6497a25ec6aac68c4158854ed5",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Highlights cybertwin publication of users' digital assets, but evaluations emphasize intrusion detection and integrated defenses."
+  },
+  {
+    "paper_id": "paper_108e36360e5b5ac9bafdb4bcce2220fd",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D",
+      "M"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Directly reviews toll-based location tracking, collusion, physical attacks, protection weaknesses, and open research directions."
+  },
+  {
+    "paper_id": "paper_14712c8e0ae358d9be11b89e18d71ce1",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports anonymity-versus-accountability discussion in vehicular announcements, with protocol security rather than detailed privacy scenarios foremost."
+  },
+  {
+    "paper_id": "paper_168e6af92b6f5b2899d0343d4c33e70c",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides forward-secrecy and conditional-privacy context across fog scenarios, without developed mobility-specific privacy harms."
+  },
+  {
+    "paper_id": "paper_17863868eb715ca1963c4995fcf2267b",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Conditional tracing complements accountability discussion; primary evidence concerns signature security and efficiency."
+  },
+  {
+    "paper_id": "paper_1ac697087f1f5fb1bee01105125a065b",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "O"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Directly models automotive personal-data control, threat agents, and domain-specific assets; central evidence for mobility privacy threat modeling."
+  },
+  {
+    "paper_id": "paper_1d4081da2a0854428e301d987e9f0a0b",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains sensitive access-policy information and revocable vehicle data sharing, supporting disclosure and control themes."
+  },
+  {
+    "paper_id": "paper_20b078a101d9585393662ec073f59186",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly analyzes conflicts between sender identity privacy and adversarial tracing/linking, supporting privacy-accountability trade-offs."
+  },
+  {
+    "paper_id": "paper_2294f6b8f3a25f65a91686756079f281",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "R",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Connects safety-message identity disclosure and pseudonym linking to internal/external attacks; useful concrete privacy-threat examples."
+  }
+]

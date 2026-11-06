@@ -1,0 +1,202 @@
+[
+  {
+    "paper_id": "paper_8f6ebc486580519f9e8760b5914b9690",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Demonstrates authentication-session hijacking and vehicle impersonation without a substantive privacy finding.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_8f9682d1045c551fb17ac227e7f626f0",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Evaluates CAN anomaly detection, ECU isolation, and brute-force resistance rather than privacy threats.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_9210ece2d90259d4ae5e2172ea9618d0",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Blockchain certificate management claims conditional privacy, but specific privacy threats and guarantees remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9290ed06f1a7519b983df2ba8e8da2e1",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Optimizes regional vehicular authentication using honey lists without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_93652c872e3858e38801cd5bde663d1e",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Broad smart-vehicle security survey may offer privacy context, but the abstract does not establish substantive privacy coverage.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_94bb293fc0c6516681a3df54ebdb545f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional privacy and keeps vehicular traffic-flow contents secret from roadside anomaly detectors.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_95203d11d6895cc1b24220b2fd61e527",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Shares anonymized vehicular threat data through federated edge-cloud learning, but privacy risk analysis and guarantees are unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9584090a56005bcf8b4f97bd69481621",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes traceability and linkability risks during vehicular handovers and evaluates zero-knowledge anonymous authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9637cfe632d451818d6913c0cb52be87",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes offline brute-force exposure of vehicular crowdsensing reports and restricts recovery to authorized requesters.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_96c434cff28955c5a72738320de6af60",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymous vehicular authentication and session-key establishment against active network attacks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_97eb6c11dcd95a059bc0f33f7fa32784",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous authentication across vehicles, roadside units, and authorities during dynamic edge-network participation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_98d3514f57505a8c955c4dff29aa739f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Proves anonymity and unlinkability despite physical compromise of a vehicle's onboard device.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_98e0e8dac23057deb437a0600d16af1a",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Maritime relay analysis improves secrecy rates, but the connection to personal-data privacy is unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_98e8a82b044f56feaa83a7a9cd0dee61",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes unconditional anonymity through ring signatures in cloud-edge transportation authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_99100a048058508183e8048d70c1c3ca",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses user-identity disclosure and revocable attribute-based access in autonomous vehicle platooning.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9aaa8de3af10531ba32bcee0dd4ce7fa",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymity-linkability trade-offs and user-controlled message linking in cellular V2X groups.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9c675835c4495d9fbc5c1e887de01cf9",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Identifies location leakage from periodic LTE resource allocation and evaluates privacy-preserving message scheduling.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9cfae8b241465760a110558623cc1ce5",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Vehicular forensics focuses on evidence authenticity, storage integrity, and legal enforceability without privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_9d589ef1f6ff5c308285cdc054bae73e",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "UAV-assisted vehicular surveillance authentication invokes privacy, but specific privacy risks and protected information remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9e4582a50b295eeb9742d0d16a92a9ea",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Proposes automotive fuzz-testing workflows for vulnerability discovery and safety, without substantive privacy content.",
+    "needs_full_text_review": false
+  }
+]

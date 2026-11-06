@@ -1,0 +1,95 @@
+# Relevance of the selected papers to the research question
+
+Assessment date: 2 November 2026.
+
+Keep the topic, refine the question, and replace two papers if you retain a twelve-paper reading list. The selection provides useful automotive privacy threats, but it does not establish the comparative effectiveness of the two assigned approaches. Its strongest use is a literature-based assessment of their capabilities, required inputs, and limitations.
+
+This assessment uses `nodes.md`, all twelve notes in `nodes/`, the selected papers' abstracts in `results/merged_papers.csv`, and the methodology in `Seminararbeit.tex`. For the two assigned papers, the evaluation and discussion sections of the local PDFs were also inspected. External checks used author manuscripts, institutional records, and publisher pages linked below. The other ten selected papers have not received a complete full-text assessment. Recommendations distinguish source findings from proposed applications to your question.
+
+The original selection, notes, and screening classifications remain unchanged. Paper numbers below follow `papers.md` and `nodes.md`.
+
+The main problem is what the question promises
+
+Your question asks:
+
+> How well can process-centric and automated risk detection systems for threat modeling approaches identify privacy threats in a connected automobile service?
+
+Four points need clarification:
+
+- **What is compared?** The process-centric approach also uses automation. Describe the two assigned approaches as process-centric, knowledge-graph-supported modeling and infrastructure-as-code-based threat modeling. They have different inputs and purposes, and are not mutually exclusive categories.
+- **What does "how well" mean?** Your sources measure different outcomes. Query correctness, reconstruction of data-flow diagrams, protocol efficiency, and privacy-threat identification are different outcomes. They cannot be combined into a common effectiveness score.
+- **Which service is studied?** Navigation, toll collection, authentication, and misbehavior monitoring have different actors and data flows. Select one main service if you retain the singular "a service." Use the others as explicitly transferred examples.
+- **What evidence can a literature review supply?** Your draft describes a literature review. The sources support a reasoned assessment of applicability and gaps. The inspected evidence does not provide a common automotive privacy benchmark for both approaches.
+
+For that research design, I recommend:
+
+> What capabilities and limitations do process-centric and infrastructure-as-code-based threat modeling approaches have for identifying privacy threats in connected vehicle services?
+
+Define the two approaches using the assigned papers. Keep the analysis focused on mobility privacy rather than a general comparison of frameworks, which your screening criteria reserve for the neighboring seminar topic. A worked example can make this question concrete without being presented as a measured tool comparison.
+
+If you actually apply and evaluate both approaches on one service, an alternative is:
+
+> Which privacy threats can a process-centric modeling approach and an infrastructure-as-code-based threat modeling approach identify in a connected vehicle navigation service, and which remain outside their coverage?
+
+That alternative requires a defined service model, explicit assessment criteria, and evidence from applying the approaches. A mapping inferred from publications must be labeled a literature-based assessment.
+
+Each paper has a different job
+
+"Keep" means the paper has a clear role in the revised question. It does not mean the paper measures the approaches' effectiveness. Conditional recommendations depend on the final service boundary.
+
+| Paper | Contribution to your argument | Recommendation and evidence limit |
+| --- | --- | --- |
+| Assigned: **TerrARA: Automated Security Threat Modeling for Infrastructure as Code** (2025) | Defines the IaC approach. Converts Terraform configuration into enriched data-flow diagrams and uses cloud threat patterns to elicit security threats. Its discussion explains missed implicit communication, overapproximation, and threat-prioritization limits. | **Keep as a methodological anchor.** The evaluation includes both model extraction and security-threat relevance. It does not validate automotive privacy coverage. A cloud security finding needs a concrete connection to personal data before you count it as a privacy finding. See the [paper DOI](https://doi.org/10.1145/3714393.3726494), especially sections 5–6 of the local PDF. |
+| Assigned: **A model-driven knowledge graph treatment for process-centric cyber threat mitigation** (2026) | Defines the process-centric approach. Connects business processes, data flows, threats, and mitigations so that queries can analyze their relationships. It supports discussion of the contextual knowledge a service model can represent. | **Keep as a methodological anchor.** The evaluation studies competency queries and natural-language answer quality in e-commerce and medical scenarios. It does not establish discovery of previously unknown automotive privacy threats. Some information is derived through relationships, but that is not evidence of complete threat discovery. See [sections 6.1–6.2](https://link.springer.com/article/10.1007/s10115-026-02819-w). |
+| **#1 A Threat Model for Soft Privacy on Smart Cars** (2023) | Supplies threats concerning people's control over personal data. Prevents your privacy analysis from reducing to secrecy, access control, and external attackers. Its threats and automotive assets can inform a reference list. | **Keep as core privacy evidence.** Select threats relevant to your service. It does not measure either assigned approach, and its focus on soft privacy needs complementary technical attack evidence. [Author abstract](https://arxiv.org/abs/2306.04222). |
+| **#2 User-Centric Security and Privacy Threats in Connected Vehicles: A Threat Modeling Analysis Using STRIDE and LINDDUN** (2023) | Directly connects connected-car architecture and vehicle, cloud, and device interactions to privacy threats. Provides a worked example for organizing service data flows and threat categories. | **Keep as core applied evidence.** Applying STRIDE and LINDDUN does not make it an evaluation of the assigned process-centric tool. Its theoretical connected-car model also does not establish real-world completeness. [Institutional publication record](https://research.wu.ac.at/en/publications/user-centric-security-and-privacy-threats-in-connected-vehicles-a/). |
+| **#4 Are VANETs pseudonyms effective? An experimental evaluation of pseudonym tracking in adversarial scenario** (2023) | Provides experimental evidence that an observer can correlate messages across pseudonym changes. Gives you a specific threat that a model must express beyond the presence of an anonymity mechanism. | **Keep as strong threat evidence.** This tests pseudonym schemes, not threat-modeling tools. For a cloud-only service, explain why message correlation is within the service boundary or a useful transferred example. [Author institution record](https://iris.unimore.it/handle/11380/1329542). |
+| **#5 A baseline threat and mitigation model for automotive cybersecurity and privacy** (2026) | The supplied abstract describes the SCAR asset registry and STRIDE/LINDDUN-based threats. Useful for checking whether your service analysis omits important assets or privacy concerns. | **Keep provisionally as core reference material.** Inspect the actual threat entries, their granularity, and supporting evidence. The abstract's broad coverage and compliance claims are not validation of either assigned tool. Check overlap with #20 before treating them as independent evidence. [Paper DOI](https://doi.org/10.1109/iccworkshops63917.2026.11586233). |
+| **#7 Dual Privacy-Preserving Lightweight Navigation System for Vehicular Networks** (2022) | Supplies a concrete navigation scenario involving identity, location, routes, roadside units, and a navigation provider. Useful for asking which party can link travel information to a person. | **Keep as service-specific support; make it central if you choose navigation.** Extract architecture, threats, and trust assumptions. Its cryptographic proofs and efficiency comparisons do not measure privacy-threat identification. Assessment based on the supplied abstract. [Paper DOI](https://doi.org/10.1109/access.2022.3222302). |
+| **#8 A Survey on Privacy-Preserving Electronic Toll Collection Schemes for Intelligent Transportation Systems** (2023) | Organizes tolling architectures, privacy properties, and attacks. Supports a bounded tolling example and an explanation of tracking and stakeholder interactions. | **Keep as supporting synthesis; make it central if you choose tolling.** It is secondary evidence. Follow important attacks to primary sources, and distinguish attacks on driver privacy from attacks on toll revenue. [Author manuscript](https://orbilu.uni.lu/bitstream/10993/55243/1/CameraReady__Privacy_Preserving_Electronic_toll_collection.pdf). |
+| **#9 Secure Resource Allocation for LTE-Based V2X Service** (2018) | Shows a distinctive privacy exposure: regular radio-resource allocation can leak location despite protection at other layers. Useful for discussing behavior that cloud configuration does not describe. | **First replacement candidate for a service/backend-focused paper.** Its radio-layer scope requires substantial explanation to connect to the assigned methods. Retain it if the service includes radio scheduling or you deliberately need this limitation example. Its age alone is not a reason to exclude it. Assessment based on the supplied abstract. [Paper DOI](https://doi.org/10.1109/tvt.2018.2868609). |
+| **#11 P2BA: A Privacy-Preserving Protocol With Batch Authentication Against Semi-Trusted RSUs in Vehicular Ad Hoc Networks** (2021) | Adds an authorized but semi-trusted infrastructure actor that may associate messages and mine private information. Helps you question the assumption that authenticated infrastructure is harmless. | **Second replacement candidate unless roadside authentication is central.** It is mainly a protocol contribution, with overlap in anonymity/linkability concerns already represented by #4 and #7. Keep its adversary assumptions if they add something specific to the service. Assessment based on the supplied abstract. [Paper DOI](https://doi.org/10.1109/tifs.2021.3098971). |
+| **#14 A Privacy-Preserving Misbehavior Detection System in Vehicular Communication Networks** (2021) | Explains how security monitoring itself can expose identity, location, or trajectories through trust and feedback scores. Adds a privacy risk created by a protective system. | **Keep as targeted supporting evidence.** The runtime detector identifies vehicle misbehavior. It is not an automated design-time privacy-threat modeling tool. Retain it for the privacy implications of monitoring and authority trust. [Author manuscript](https://par.nsf.gov/servlets/purl/10295358). |
+| **#20 Human-Artificial Intelligent Threat Modelling in the Automotive Domain** (2025) | Describes iterative refinement of automotive models, assets, threats, and mitigations through human and LLM contributions. Supports discussion of analyst involvement and automation assumptions. | **Keep as methodological support, subject to overlap review.** LLM assistance differs from IaC analysis. Verify concrete privacy outputs and validation before using claims of improved coverage. Its SCAR-related material and shared authorship with #5 warrant checking reuse. [Publisher abstract and introduction](https://xplorestaging.ieee.org/document/11117134). |
+
+Two replacements would improve the fit
+
+My default proposal keeps the twelve-paper total: retain both assigned papers and selected papers #1, #2, #4, #5, #7, #8, #14, and #20; replace #9 and #11 with the following candidates.
+
+1. **Replace #9 with Sticky-PRE: A Sticky Proxy Re-Encryption Protocol for Persistent Vehicle Data Privacy (2025).** This is already #3 in `papers.md`. It concerns user-defined controls when vehicle data crosses organizational boundaries. That makes it a better fit for analyzing service processes, third-party sharing, and the difference between infrastructure configuration and intended data use. It remains a mitigation paper. Use its threat model and data-sharing workflow, without treating its defense evaluation as tool-effectiveness evidence. [Author manuscript](https://perso.liris.cnrs.fr/omar.hasan/publications/ashutosh_2025_iv.pdf).
+2. **Replace #11 with Privacy Threats in Cooperative Collision Avoidance System Architectures.** The institutional manuscript identifies this as a 2025 IEEE Transactions on Intelligent Vehicles paper, DOI [10.1109/TIV.2024.3504863](https://doi.org/10.1109/TIV.2024.3504863). It analyzes application-specific privacy threats and attacker models across peer-to-peer, client-server, and hybrid architectures. This supplies architectural threat analysis rather than another authentication protocol. It covers vulnerable road users as well as vehicles, so explain the transfer if navigation or tolling is your main example. [Author manuscript](https://www.uni-goettingen.de/de/document/download/3a543265fb29117ae938f0a4e3f5e07e.pdf/soenke_huster_IEEE2025.pdf).
+
+If you want replacements entirely from the existing shortlist, #16, **Privacy-Preserving Continuous Data Collection for Predictive Maintenance in Vehicular Fog-Cloud** (2021), is an alternative to the collision-avoidance paper. Its supplied abstract connects continuous sensor collection to location and identity exposure. It fits a maintenance service particularly well, but contributes less direct architectural threat analysis. [Paper DOI](https://doi.org/10.1109/tits.2020.3011931).
+
+These substitutions improve relevance. They do not supply a missing comparison of the assigned approaches. A direct privacy extension for process models would fill a different gap. One supporting candidate is **A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements** (2020). It detects conflicts in annotated process models and evaluates a healthcare example. Treat it as transferable method evidence, not automotive evidence or a general framework-comparison chapter. It falls outside a strict 2021-onward rule. [Publisher article](https://link.springer.com/article/10.1007/s10270-020-00781-x).
+
+The case boundary determines which examples deserve space
+
+For a focused seminar, navigation is a reasonable main example because #7 already supplies a concrete service. Tolling is equally defensible if you prefer #8's literature base. Avoid constructing a single architecture that combines every selected paper's functionality merely to keep every paper central.
+
+A literature-based assessment can map each relevant privacy scenario to the knowledge it requires:
+
+| Example threat | Knowledge required for analysis | What you can reasonably investigate |
+| --- | --- | --- |
+| Personal journey records exposed through cloud access paths | Storage, access permissions, trust boundaries, and identification of the stored data as personal | Whether TerrARA's supported resources and threat patterns represent the access path. The privacy interpretation also needs data semantics. |
+| A provider uses collected journeys for an unintended purpose | Collection purpose, actors, permitted uses, and actual processing | Whether process annotations and queries can express the relationship. Do not assume the assigned tool already implements a privacy rule for it. |
+| An observer links changing vehicle pseudonyms | Message contents, timing, movement, and observer capabilities | Whether either representation includes the correlation mechanism. A cloud-resource graph alone does not supply this knowledge. |
+| Monitoring feedback exposes a driver's trajectory | Feedback flows, identifiers, aggregation, storage, and authority trust | Whether the service model includes the monitoring system and its privacy assumptions. |
+
+These are proposed analytical mappings, not observed detection results. Classify coverage as demonstrated in the source, plausible with stated inputs or extensions, outside the represented scope, or unresolved. Explain the reason for each judgment.
+
+If you retain an empirical "how well" question, evaluate both on the same defined service. Build a literature-informed reference threat set, record model inputs and manual annotations, match outputs to concrete scenarios, and adjudicate false positives. Report recall relative to that reference set, not all possible threats. Separate absent inputs, missing rules, and failed analysis. Also distinguish the tools as published from privacy extensions you add yourself. Their published performance numbers have different denominators and cannot substitute for this evaluation.
+
+Several notes need adjustment before synthesis
+
+- `nodes/VANETsPseudonyms.md` presents short-lived pseudonyms as the proposal. The selected paper evaluates five existing change mechanisms and finds that realistic attackers can still track vehicles. This result is its main value for your question.
+- `nodes/MisbehaviorDetectionSystem.md` omits the key privacy issue. Add that trust and feedback scores can expose location, trajectory, or identity. The proposed system aims to protect those data while detecting misbehavior.
+- `nodes/P2BA.md` mainly records computational improvements. For your review, the semi-trusted RSU, data association, anonymity, and unlinkability assumptions matter more.
+- `nodes/TerrARA.md` calls the discussion "not so relevant." Section 6 is central to your limitations analysis. Section 5.3 also deserves a note: the authors match generated security threats to known vulnerabilities. This is distinct from both DFD-extraction quality and automotive privacy coverage.
+- `nodes/Process-centricCyberThreatMigration.pdf.md` records answer-correctness results. Preserve their meaning as query-evaluation results. They are not percentages of privacy threats discovered.
+
+The earlier screening answered a broader question
+
+`config/screening_criteria.md` explicitly says the narrower process-centric/IaC question is not an eligibility gate. This explains why papers can be relevant to the broader mobility-privacy review while contributing only indirectly to your current question. Their existing INCLUDE/HIGH labels do not establish direct support for comparative tool effectiveness.
+
+After fixing the final question, document its scope and reassess the affected roles. Keep the two assigned sources explicitly as methodological foundations. Record new additions with their retrieval route, and keep this relevance assessment separate from the historical screening decisions. The existing single-database search and its first-300-results cutoff also limit claims about exhaustive coverage of the wider literature.

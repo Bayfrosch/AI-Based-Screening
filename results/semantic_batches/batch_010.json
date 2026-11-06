@@ -1,0 +1,202 @@
+[
+  {
+    "paper_id": "paper_82cb0f3507f656ebbcd14f552561ad98",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies STRIDE to freight-truck data flows and interfaces, but the abstract does not identify concrete privacy threats.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_82db1b521cd15a33a9df39b884cdfc5e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes location anonymity, anonymity abuse, and controlled traceback in vehicular communications.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_82dc5eb6bd0a5baf8ba81399e43fafc2",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive cybersecurity framework includes mobility-service cases, but its privacy-specific findings or supporting use remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_843c0c6527ce546caf6d5e078a8e3325",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Develops an automotive threat model explicitly incorporating pseudonymization and data minimization into mitigation analysis.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_84c7de00bb985bd09236838c37933cb4",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle and UAV location tracking and unauthorized data access in transportation communications.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8634f94e8b445464bba30b58ddb29e36",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes location and identifier leakage, consent-based access, and illegal transfers across vehicular edge stakeholders.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_86f249505eb052fd90f9887a40c81c2e",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Dynamic vehicular group authentication focuses on scalability, key management, and computational overhead without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_87460cabd2ea5397852d75e9fd31b7a7",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous group authentication, user unlinkability, and collusion resistance in smart vehicular systems.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_878a14b905cf5ae09460729b02128196",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes confidentiality of sensitive vehicular sensor messages and pseudonym-based conditional privacy.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_87dcfe718c485438825215417594a127",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Proposes anonymization against automotive persistent threats, but protected data and concrete privacy-threat analysis remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_88a870dd3d3258f7af1ebdfba4d1e0ff",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "UAV rescue authentication uses pseudonyms for accountability; whether it analyzes participant privacy is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_88c733882844516ca33fdcb614935405",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes confidentiality of vehicle identities and resistance to interception and side-channel threats in post-quantum communication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8a6f32fe2bb05a8aa67c405fc98fa3c6",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle privacy with conditional tracing and revocation in decentralized authentication infrastructure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8a83fb00cc975a24ae9f30910c4f486b",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Identifies failed vehicular anonymity and session-key disclosure and evaluates a privacy-enhancing authentication correction.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8ba548b35a20549f9a3d51f74547d0ea",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Analyzes operating-system delays and cyberattack impacts on autonomous-vehicle functional safety, without substantive privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_8bc2f5637091514d9ff00f30f0dc75d9",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Demonstrates extraction of vehicle-user private keys from signatures and evaluates corrections to a privacy-preserving protocol.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8bfffa1cc4bd54d68926cd57bd5d9998",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Content-sharing scheme invokes conditional privacy, but the abstract chiefly describes proxy selection and performance without concrete privacy guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8ccec5219b1e5bf7a3208210f902740c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes group-signature anonymity for vehicular announcements and trust management across roadside infrastructure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_8d155f68fbc95f018f3313471e4dd44a",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Measures routing performance under attacks using statistical experimental design, without privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_8f69ce66676d53f5a4cc38c0f6deedb9",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Integrates hardware authentication, adversarial-learning robustness, and network defenses without a substantive privacy threat contribution.",
+    "needs_full_text_review": false
+  }
+]

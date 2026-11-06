@@ -1,0 +1,202 @@
+[
+  {
+    "paper_id": "paper_2709863e843e532aaf6f594c012043d6",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Federated vehicular learning emphasizes Byzantine robustness; whether it analyzes data privacy beyond local training remains unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2713da386a9a5ff8b320350761f5071f",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular key agreement mentions private location data and anonymity, but concrete privacy protection and attacks need clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_27280cf0a32c5cd098f032d4a7bf9ade",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Presents a V2X cybersecurity testbed and vulnerability-testing platform without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_29e18ab13ba35ebd996edf9ea1c9c85c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Combines Sybil resistance with coordinated anonymity updates to protect vehicular status information.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2a34c1ae1d4f5a9b849c62085f3e649d",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymous location cloaking and trust-management attacks in vehicular location-based services.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2af5d62f2e925592b7158609cf230e28",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes group authentication preserving vehicular user anonymity and personal-data security in 5G networks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2c3bdcf736245475a01f698f477f138e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymous vehicular communication and access restrictions among mutually distrustful network participants.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2cc54cf6a3c550369177bf9994d13a27",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Maritime IoT authentication focuses on physical security and computational efficiency without substantive privacy properties.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_2dd4e3d68fb05a8f9130393668e62837",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Analyzes industrial timing-protocol synchronization attacks and defenses, without privacy-related content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_2ec9242366765b20b3587db390b4f448",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Formal verification targets unsafe control states, authentication logic, and privilege escalation rather than privacy threats.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_2ee534a4015d5cbb8e4c05a5fb713689",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Maritime cloud auditing verifies storage correctness and data integrity, without privacy threat analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_2f50c5421d2b52a79149e0e475938089",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Federated intrusion detection claims cooperative privacy preservation, but specific leakage threats or privacy guarantees are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_31814ec5904c56b287c7f2157250ad67",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicular handover and confidentiality of intermediate federated-learning parameters.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_32401c5eea69516fbee23bcc315dfa8e",
+    "decision": "INCLUDE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Demonstrates failed vehicle-user anonymity, secret-key disclosure, and impersonation in fog-based vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_335f230b5bca5b1dacbaa06a0b0cdcfd",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle identity exposure during authentication and confidential data sharing through potentially malicious edge proxies.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_33adc1f4e70d532ba5a4a92bf56e93f5",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I3"
+    ],
+    "reason": "General aggregate-signature cryptanalysis mentions signer privacy and vehicular applications, but a defensible mobility-privacy transfer remains unestablished.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_3511a099ef36532f8c5f89e4e2e31902",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Drone authentication addresses eavesdropping and claims privacy, but protected personal information and privacy mechanisms are unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_35297ec647115e5f955c56bd8eaff97b",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle-user anonymity using biometric and physically unclonable-function authentication with formal attack resistance.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_358a0d205aa954b5bd4cb299f322c630",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Identifies vehicle-data sharing among manufacturers, insurers, and providers, but the architectural privacy analysis is insufficiently specified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_35db2a33582c540e8c093667cccc7284",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Distributed authentication optimizes verification using mobile devices and blockchain without substantive privacy analysis.",
+    "needs_full_text_review": false
+  }
+]

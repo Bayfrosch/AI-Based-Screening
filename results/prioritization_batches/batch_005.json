@@ -1,0 +1,351 @@
+[
+  {
+    "paper_id": "paper_878a14b905cf5ae09460729b02128196",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Offers conditional identity privacy and key-escrow mitigation, chiefly complementary to detailed privacy-threat analysis."
+  },
+  {
+    "paper_id": "paper_88c733882844516ca33fdcb614935405",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Adds identity confidentiality under quantum threats; main contribution remains encryption and authentication efficiency."
+  },
+  {
+    "paper_id": "paper_8a6f32fe2bb05a8aa67c405fc98fa3c6",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Conditional tracing and revocation provide supplementary accountability context; concrete privacy exposure is not developed in the abstract."
+  },
+  {
+    "paper_id": "paper_8a83fb00cc975a24ae9f30910c4f486b",
+    "scores": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Shows failed anonymity and key disclosure in prior vehicular authentication, directly supporting limitations of claimed privacy guarantees."
+  },
+  {
+    "paper_id": "paper_8bc2f5637091514d9ff00f30f0dc75d9",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Concrete key-extraction critique illustrates cryptographic trust limits, but downstream mobility privacy harms are not demonstrated."
+  },
+  {
+    "paper_id": "paper_8ccec5219b1e5bf7a3208210f902740c",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides anonymous announcement mechanisms with blockchain trust; useful supporting evidence rather than developed privacy scenarios."
+  },
+  {
+    "paper_id": "paper_94bb293fc0c6516681a3df54ebdb545f",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains confidential traffic inspection by roadside detectors, supporting separation of analysis access from vehicle data exposure."
+  },
+  {
+    "paper_id": "paper_9584090a56005bcf8b4f97bd69481621",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds untraceable and unlinkable handover authentication, with privacy properties clearer than detailed attack scenarios."
+  },
+  {
+    "paper_id": "paper_9637cfe632d451818d6913c0cb52be87",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies brute-force exposure during crowdsensing deduplication, useful complementary evidence on protected data processing."
+  },
+  {
+    "paper_id": "paper_96c434cff28955c5a72738320de6af60",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Anonymous authentication is a stated property; developed privacy harms and assumptions are not described."
+  },
+  {
+    "paper_id": "paper_97eb6c11dcd95a059bc0f33f7fa32784",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers anonymous group participation in edge networks, mainly as an efficient authentication example."
+  },
+  {
+    "paper_id": "paper_98d3514f57505a8c955c4dff29aa739f",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly analyzes anonymity and unlinkability despite onboard-device compromise, exposing practical trust boundaries for privacy guarantees."
+  },
+  {
+    "paper_id": "paper_98e8a82b044f56feaa83a7a9cd0dee61",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Unconditional anonymity complements transportation authentication, but the abstract primarily develops ring-signature efficiency."
+  },
+  {
+    "paper_id": "paper_99100a048058508183e8048d70c1c3ca",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies identity disclosure in platoon access control, adding a specific service context without developed privacy-adversary scenarios."
+  },
+  {
+    "paper_id": "paper_9aaa8de3af10531ba32bcee0dd4ce7fa",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly analyzes anonymity versus message-linkability requirements and user control across V2X use cases."
+  },
+  {
+    "paper_id": "paper_9c675835c4495d9fbc5c1e887de01cf9",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies location leakage from resource-allocation patterns despite secured higher layers, illustrating cross-layer privacy-model limitations."
+  },
+  {
+    "paper_id": "paper_9e7e3bfdca385fd7ba6631cb2f5b2bdf",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Temporary roadside identities provide supplementary anonymity mechanisms; the abstract emphasizes verification speed."
+  },
+  {
+    "paper_id": "paper_9ee09e4d12865cfbbdd60c7f448c72b8",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds identity privacy in location-based services and threshold authority design, without explicit location-tracking analysis."
+  },
+  {
+    "paper_id": "paper_a007ea65326e561d89e849a6caca4106",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides biohash protection of sensitive user information in UAV-assisted services, with limited developed privacy scenarios."
+  },
+  {
+    "paper_id": "paper_a1eafa8471a45dbc951852e45388ec7e",
+    "scores": [
+      1,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "D",
+      "O"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Image encryption protects sensitive transportation imagery; contribution centers on cipher characteristics rather than adversary or privacy-risk modeling."
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "paper_id": "paper_a524aeb974a95bbbb1c8710635b95b3a",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports anonymity, key-escrow and revocation discussion, primarily through complementary authentication mechanisms."
+  },
+  {
+    "paper_id": "paper_a89fd0d348685e4ebd3f6247fbf7d547",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds decentralized identifiers and credentials for platoon admission, with limited developed privacy-adversary analysis."
+  },
+  {
+    "paper_id": "paper_aaccc95774275d8dbe435e6f12eb3677",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "R",
+      "T",
+      "V",
+      "M"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Experimentally tests pseudonym-change defenses against realistic vehicle tracking, directly exposing correlation risks and privacy-protection limitations."
+  },
+  {
+    "paper_id": "paper_ad8e1171503a5df7b5ddebd75b5f0dbd",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Illustrates location-preserving sensory aggregation and sharing, adding a concrete data-processing context without detailed attack scenarios."
+  },
+  {
+    "paper_id": "paper_ae49e51ea8bf587880def3526d61ddaf",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly connects identity disclosure to driver stalking and tracking, supplying concrete privacy-harm examples alongside ring-signcryption protection."
+  },
+  {
+    "paper_id": "paper_ae6d7ac27b8f52ed9e4c7e646a85ff29",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides forward privacy for historical platoon communications, a complementary lifecycle-protection property rather than developed privacy scenarios."
+  },
+  {
+    "paper_id": "paper_ae9a003b09655aa9b141e8384a39f76c",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains location exposure and anonymous cloaking in LBS; useful supporting evidence on location collection and trust management."
+  },
+  {
+    "paper_id": "paper_b18851a3f2dd56ae9fd4428f1ce6f5c5",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers anonymous post-quantum channel protection, with performance and cryptographic security more prominent than specific privacy exposures."
+  },
+  {
+    "paper_id": "paper_b47623b7672d50bca16b8a430714ddca",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides conditional identity privacy and escrow-resistant keys, supporting authentication and authority-trust discussion."
+  },
+  {
+    "paper_id": "paper_b4d7d5def20f5ffd9e25cfd91f16bc7e",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Pseudo-identities and message encryption offer supplementary privacy mechanisms, without developed privacy attack analysis."
+  },
+  {
+    "paper_id": "paper_b70460ae88445307bd77f555c5803946",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Shows confidential sharing across insurers, police and maintenance providers, useful stakeholder context without detailed adversarial behavior."
+  },
+  {
+    "paper_id": "paper_bb48cf09573253138148c8971b439845",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports pseudonym-management and key-escrow limitations; primary contribution improves storage and authentication costs."
+  },
+  {
+    "paper_id": "paper_bcfc331c6abc5350831ade361253cd66",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds unobservability and content/context privacy requirements, complementing the conceptual discussion without specific exposure scenarios."
+  },
+  {
+    "paper_id": "paper_bd1b85bdc25f5ad3b406ae88951b27a0",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Anonymous CSP broadcasts and session security do not clearly establish vehicle-user privacy threats; supplementary pending full-text clarification."
+  },
+  {
+    "paper_id": "paper_bd76c4ac51705248afb8fff06176a450",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Data-leakage defenses offer complementary ITS security context; affected personal data and adversary conditions remain broad."
+  },
+  {
+    "paper_id": "paper_bd87f6c64b6255d2a4618f28aa1a4452",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Conditional privacy and confidentiality support cross-domain communication context, chiefly through cryptographic protocol guarantees."
+  },
+  {
+    "paper_id": "paper_bf39598dd1615797a63817e6e3a63bfa",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides forgery and failed-traceability critiques, useful for privacy-accountability limitations rather than demonstrated tracking harms."
+  },
+  {
+    "paper_id": "paper_c2151f54eb325d33bde7dc2471921f5c",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds anonymous announcements and regulator-control mechanisms, with privacy analysis secondary to redaction and integrity management."
+  },
+  {
+    "paper_id": "paper_c35eb42fcee9524cbfbf1b27006fb57e",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides unlinkable handover authentication, useful complementary evidence on identity protection and architectural privacy requirements."
+  },
+  {
+    "paper_id": "paper_c46e3d4b98ab55c19b0f8d1ed6e74776",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds anonymous participation and conditional tracing in outsourced vehicular computation, without developed data-disclosure scenarios."
+  }
+]

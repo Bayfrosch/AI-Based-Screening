@@ -1,0 +1,205 @@
+[
+  {
+    "paper_id": "paper_75a5b481756359b08e58c2ad55ed849c",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Cross-domain authentication claims privacy preservation, but described analyses emphasize credential binding, cloning resistance, and latency.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_75b82dc20e4b53cc86993b70517bccc2",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Cloud vehicular authentication addresses interception and replay with efficiency comparisons, without substantive privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_76de0232a45e564abf129dc9c91cd3b8",
+    "decision": "EXCLUDE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Develops perception-system threat assessment for autonomous-driving safety, without privacy-related threat analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_791b27ca9f4453a89195924270d39321",
+    "decision": "MAYBE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1",
+      "I3"
+    ],
+    "reason": "Drone-surveillance protocol weaknesses expose credentials and forward secrecy; relevance to mobility personal-data privacy requires clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_794e121814d95580a4f15e3f80952224",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Post-quantum signatures address authenticity, integrity, unforgeability, and verification scalability; a privacy keyword does not establish substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_7c1d3beea4ec5778be1613c0a564f706",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional vehicle identity privacy using pseudonyms and dynamic key updates in blockchain-edge infrastructure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7c611ecf9043587c9c77905e62f57332",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Sensitive-information leakage motivates transportation cloud auditing, but the proposed analysis focuses on integrity rather than privacy protection.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7c8d638ac27a56dcaa4c8caff6f7aa75",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes task-content confidentiality and recipient privacy during decentralized vehicular-cloud task delivery.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7ca6cbb43e475f13939770e6a3b1b114",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Addresses counterfeit automotive hardware and safety risks using device fingerprints, without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_7cb30c30b9515734a3012ed52c0b8bdb",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Platoon communication records use a private chain, but the abstract does not establish privacy guarantees or exposure analysis.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7cd5d1d9163b5d138f2b263f0e9e1e0a",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates confidentiality of vehicular speech transmissions through encryption and cryptographic security tests.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7d173801b1cc5e398ca75c6e57f61c36",
+    "decision": "EXCLUDE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "E1",
+      "E4"
+    ],
+    "reason": "Extends a generic security metamodel and evaluates standards compliance without substantive privacy threat findings.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_7d5f063becac5c6696b4272ab98dbcaa",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymity and trust-authority risks during cross-domain vehicular edge authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7d62364542295afbb09b4601fe24ea4e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates vehicle-user privacy during dissemination of location, navigation, and toll-related messages over insecure channels.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7df4f3741f005715a9ab0f69119978e2",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes side-channel data leakage and key disclosure in IoV authentication and proposes protective key updates.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_7e11a2e34f085e02b5a4142c59fb57cb",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates user anonymity and untraceability in blockchain-supported electric-vehicle battery-swapping authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_801ad633cc905d1ab052ce550fe25b01",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous key agreement and authorized access to vehicular services and information.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_80894a413617589b8aacb0f139f1a8bc",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "ITS survey explicitly identifies road-user privacy concerns, but substantive privacy-threat coverage is unclear from the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_81746e7b5c335fcda5cd03a22f11cc18",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Quantum-secured transportation twins invoke privacy, but concrete privacy threats and evaluated protections remain unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_82186f2c48a85cbd824d470f288095c7",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes identity privacy, unlinkability, and conditional traceability in vehicular emergency-request authentication.",
+    "needs_full_text_review": true
+  }
+]

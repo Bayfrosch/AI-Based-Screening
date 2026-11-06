@@ -1,0 +1,204 @@
+[
+  {
+    "paper_id": "paper_18f9d4f687d45f129bfa64fe3ddf198a",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Post-quantum vehicular authentication claims conditional privacy, but the abstract does not specify privacy threats or protected identity relationships.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_190fe8b3359e54b9939d609c83e529e4",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1",
+      "I3"
+    ],
+    "reason": "Maritime sensor aggregation uses encryption and zero-knowledge proofs; personal-data risks and transfer to the review remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1ac697087f1f5fb1bee01105125a065b",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Develops concrete automotive soft-privacy threats linking threat agents, personal-data control, and domain-specific assets.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1c5210a232ff575f89ceb4dd399d1dec",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Empirically explores automotive attack chains, including apps and backends, but does not specify privacy consequences in the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1d028cf149d251ff81a0afd1e55d6fdb",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Analyzes manufacturing production quality and security monitoring, without substantive mobility privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_1d4081da2a0854428e301d987e9f0a0b",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes sensitive access-policy disclosure and revocation of shared vehicular social-network data.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1d685eaf45f4545fb55f5b2cc9e39802",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Blockchain handover access control stores masked credentials, but concrete identity-privacy threats and guarantees are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1df08b18e84051c0ae0f4b5e7d9a0d7b",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Transportation threat modeling reproduces data-exfiltration paths, but personal-data exposure and the privacy-specific contribution require clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1e02ee8ea52f5394ab57935d79c0e31c",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Protects vehicular offloading integrity and authentication against replay and interception attacks without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_1fd0fd52075d51809798d10447a22025",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Evaluates IoV mutual authentication and key-management security without identifying privacy harms or substantive privacy properties.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_20b078a101d9585393662ec073f59186",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes the conflict between sender identity privacy and attacker traceability/linkability in post-quantum vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2294f6b8f3a25f65a91686756079f281",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates identity disclosure, pseudonym linkability, and internal/external attacks in vehicular pseudonym shuffling.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_22e67cd0568b539d88db06c394e13ff3",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Delegates authentication to edge nodes to improve handover latency and resilience, without a substantive privacy contribution.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_23a3cf32baf758cfbbd2350cc92c1eb9",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Conditional privacy appears in keywords, but the abstract analyzes aggregate-signature efficiency and unforgeability without explaining privacy protection.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_241588afee8b5657b36db8eb33efbfbc",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Controls access to vehicular video multicast; whether the protected content or threats have a personal-privacy dimension is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_244a9692ea415a06b023078057759e40",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "EV charging threat modeling spans vehicles and backends, but concrete privacy risks are not identified in the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_2551109f06e851628bedd0f5fe263192",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes eavesdropping and vehicular authentication; privacy keywords and traceability warrant checking the actual privacy guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_263db630aa99536eb27016190cdf9fab",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Identifies traceability, ephemeral leakage, and semi-trusted-party weaknesses in vehicular road-monitoring authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_26679a4dff905c6b9397a2ebb69b71eb",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Studies trusted fog-service transactions and payoff allocation, without privacy threat analysis or personal-data protection.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_2706463b1ee3534799648ba15075fa5e",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular handover authentication resists identity theft, but its privacy dimension beyond impersonation prevention remains unclear.",
+    "needs_full_text_review": true
+  }
+]

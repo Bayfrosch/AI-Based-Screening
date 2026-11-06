@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_ae49e51ea8bf587880def3526d61ddaf",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes identity leakage enabling driver stalking and tracking, using conditional ring-signcryption anonymity.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ae4d0730721b599497665c083927ae01",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Evaluates intrusion detection for denial-of-service, fuzzing, and impersonation to protect vehicle safety and integrity, without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_ae6d7ac27b8f52ed9e4c7e646a85ff29",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes forward privacy of historical platoon communications using updatable encryption and formal security proofs.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ae9a003b09655aa9b141e8384a39f76c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle-position exposure during location-based services and evaluates distributed anonymous cloaking against trust attacks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b05b1235f767503ca12317f903448c22",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular attribute-based access control claims privacy benefits, but concrete personal-data risks and guarantees are insufficiently described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b0a97920297154e7b99fe334f35e46eb",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Optimizes vehicular blockchain storage, authorized rewriting, and verifiable queries without analyzing privacy threats or erasure rights.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_b0db82b202c15d0585f530b630c2822f",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Software-defined vehicular authentication claims privacy, but the abstract does not specify identity protection or privacy attacks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b18851a3f2dd56ae9fd4428f1ce6f5c5",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymous end-to-end protection of sensitive vehicular data against post-quantum communication threats.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b460276f3bb258bb9ffea37fd2b6cb7d",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "RFID vehicular authentication mentions privacy challenges, but evaluated privacy properties beyond tampering resistance are unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b47623b7672d50bca16b8a430714ddca",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle identity privacy, key escrow, and conditional tracing in post-quantum authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b4d7d5def20f5ffd9e25cfd91f16bc7e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes pseudo-identity authentication and encrypted vehicular communication without continual authority dependence.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b70460ae88445307bd77f555c5803946",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes confidential vehicle-data sharing and access permissions across insurers, police, and maintenance providers.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b736d87b350d5f1ea32f7f9b5cb04487",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive data-processing and cybersecurity overview may supply context, but a specific privacy contribution is not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_b940c5d8bb8b5e35ba2b8dd75a69d45c",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Automotive TARA engine identifies sensitive-information extraction as a risk; whether experiments substantively analyze privacy threats is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bb48cf09573253138148c8971b439845",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes pseudonym linkability and secret-key escrow in anonymous vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bbe3fe4c640d51d3aea0cd47631ad680",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Lattice-based authentication claims conditional privacy but does not specify privacy exposures or properties in the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bcfc331c6abc5350831ade361253cd66",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes content and contextual privacy, including unobservability, for vehicular message broadcasting.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bd1b85bdc25f5ad3b406ae88951b27a0",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicle-cloud authentication and session security despite leakage of temporary information.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bd76c4ac51705248afb8fff06176a450",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes data-leakage attacks and protective exchange/storage mechanisms in intelligent transportation communications.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bd87f6c64b6255d2a4618f28aa1a4452",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional privacy, traceability, and ciphertext confidentiality across heterogeneous vehicular trust domains.",
+    "needs_full_text_review": true
+  }
+]

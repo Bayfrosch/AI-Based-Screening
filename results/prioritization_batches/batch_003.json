@@ -1,0 +1,362 @@
+[
+  {
+    "paper_id": "paper_4a582d9f34105746b94ae5fa2ff2a8b9",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains conditional anonymity and accountable tracing, useful complementary access-control evidence without developed privacy attack scenarios."
+  },
+  {
+    "paper_id": "paper_4d063d41dd8f5f9681466c0e61f613af",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Pseudonym authentication contributes supplementary mechanism context; the abstract emphasizes efficiency rather than concrete privacy harm."
+  },
+  {
+    "paper_id": "paper_4d9c36fb75ed5c5e94bde3969fb8b428",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains location/identity exposure from continuous maintenance sensing and the privacy-error trade-off introduced by differential privacy."
+  },
+  {
+    "paper_id": "paper_5138ed89a2455801821cda52c3ec79f8",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Illustrates hiding individual routes during traffic aggregation, with limited developed adversary analysis in the abstract."
+  },
+  {
+    "paper_id": "paper_517c3429051d52d78c620dd4b57a4610",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "T",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Demonstrates colluding roadside units exposing trajectories and defeating anonymity/unlinkability, directly informing privacy threats and trust assumptions."
+  },
+  {
+    "paper_id": "paper_545af238767053d8b6e07d75a81dd41f",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Ring-member selection supports conditional-privacy discussion, but concrete exposures and adversarial privacy analysis remain implicit."
+  },
+  {
+    "paper_id": "paper_575cd4a565755944b50339ec4927ced0",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides anonymous platoon restructuring as a specific complementary setting, without detailed privacy attack scenarios."
+  },
+  {
+    "paper_id": "paper_5832900a48695c129790ad4eb98aebf2",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Analyzes pseudonym-reuse limitations, revocation, infrastructure trust, and user-controlled linkability; directly supports privacy-design trade-offs."
+  },
+  {
+    "paper_id": "paper_5876a6eb2f6a53008907e6abc4fcee20",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "T",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains disclosure through spatial-temporal broadcasts and unlinkability protections on expressways, offering concrete mobility privacy examples."
+  },
+  {
+    "paper_id": "paper_5889fb4bf0745197bd8250b29f308d1f",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds cross-region message-unlinkability mechanisms; useful supporting evidence without explicit trajectory correlation analysis."
+  },
+  {
+    "paper_id": "paper_5a98bfb6b0335f888eee7fe3f269bb9f",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Reviews key escrow and server-side identity disclosure; complementary cryptographic perspective rather than developed mobility threat scenarios."
+  },
+  {
+    "paper_id": "paper_5aac84f4a0135452b8becee0c157b956",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides social-identity lifecycle and transparency-log context, useful for pseudonym management and accountability discussion."
+  },
+  {
+    "paper_id": "paper_5af29268414850418a556d8d097c7dcc",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains anonymity abuse and behavioral privacy leakage in advertising, highlighting stakeholder accountability and pseudonym-change trade-offs."
+  },
+  {
+    "paper_id": "paper_5ca39c963bba50258c751e8705ccd200",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports multidomain trust, pseudonym distribution and key-escrow discussion, with limited developed privacy scenarios."
+  },
+  {
+    "paper_id": "paper_5df36478f1b154678e46ecf6a565ab0c",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "I",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Evaluates inference attacks against collaborative vehicular object detection, providing a concrete learning-related privacy threat and defense example."
+  },
+  {
+    "paper_id": "paper_5f6f95b6d2925ba8b5d463211c4964f1",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides identity privacy and traceability mechanisms in edge authentication; direct threat analysis is secondary."
+  },
+  {
+    "paper_id": "paper_62a103174d585d1781282b422acd0372",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports confidential queries and hidden access policies in vehicular sharing, without detailed personal-data threat scenarios."
+  },
+  {
+    "paper_id": "paper_65688dd1e50258cebcab20ce0c147425",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "R",
+      "T",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly models roadside/navigation-provider exposure and linking of routes, locations and PII, supporting concrete stakeholder privacy analysis."
+  },
+  {
+    "paper_id": "paper_6839e29e40785a81a849ce7166a564e6",
+    "scores": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains how colluding roadside units link authentication records and defeat anonymity, making trust assumptions and protocol limitations explicit."
+  },
+  {
+    "paper_id": "paper_69d6c52c7b355f1ebf8fd342ab55b81c",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds vessel-location tracking and maritime authentication as a complementary mobility domain, with limited developed privacy-adversary detail."
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "paper_id": "paper_bf39598dd1615797a63817e6e3a63bfa",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes identity-protecting vehicular signatures, malicious-vehicle traceability failures, and corrective schemes.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_bf98476ed63556eb8dc63db588cc0524",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Automates automotive cybersecurity test generation and binary analysis without a substantive privacy contribution.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_bfed8a0f70ad51c88009f16619437ea7",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Threat-modeled software-update architecture may address privacy requirements, but the abstract does not identify them.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c05a9d9f1f4f582dbd87c1d03686a1f9",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies PASTA to vehicular AI threats involving location-bearing messages, but concrete privacy attacks remain unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c198e04d37395d08892cab7e479353b5",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Self-sovereign identity and decentralized keys may support privacy, but the abstract does not specify privacy threats or evaluated guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c1bdb789201c50c085616a5286bc2f7a",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Models cargo-handling accidents and operational ship safety rather than personal-data privacy threats.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_c1d781dacfb45fdc996beb38686e61eb",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular encryption claims data privacy, but reported evaluation concerns delays and routing rather than concrete privacy risks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c2151f54eb325d33bde7dc2471921f5c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicular announcements and regulator abuse within a redactable blockchain scheme.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c22356ebe19754f0a7da5958d69136e3",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Cross-layer authentication improves signal-based legitimacy detection and verification efficiency without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_c2343cab4f67548e8eac3bd55a2a799f",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies STRIDE to automotive microcontroller data flows, but the abstract does not identify privacy-specific threat results.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c34af8f5f3d854fc95328312c16f8351",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automated system-of-systems TARA may support architecture analysis, but its privacy-related contribution is not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c35eb42fcee9524cbfbf1b27006fb57e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes handover-related vehicle privacy, using zero-knowledge authentication to improve anonymity and unlinkability.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c46e3d4b98ab55c19b0f8d1ed6e74776",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous fog-vehicle participation across outsourced tasks with conditional tracing of malicious providers.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c4f24421a6275a52af15d388d66e6756",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Vehicle ownership, insurance, and accident-record sharing may supply privacy context, but the paper analyzes integrity and traceability.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c5f4f280e99e51b8a092d90de9c15cc9",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Transportation access-control analysis claims confidentiality, but specific personal-data risks and privacy protection remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c66d5051f881504287f45d8f7a825cdb",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies STRIDE and LINDDUN to automotive assets, systematically identifying security/privacy threats and linked mitigations.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c6a1e06c8b3d521f82eb9063d5b1ec16",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1",
+      "I3"
+    ],
+    "reason": "Signature cryptanalysis references node-location privacy and vehicular applications; substantive mobility-privacy findings require clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c6bb5450796f52fbba36783d890ad1eb",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Group-key agreement invokes privacy preservation but does not specify privacy threats or identity-protection properties.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c722ce9423cf5f1a81dcfa24d05decb1",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes privacy-preserving vehicular data downloads with distributed subscription attributes, revocation, and outsourced cloud processing.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_c783715594275c159899e5f22b64117f",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Subsystem security-compatibility modeling includes a privacy keyword, but concrete privacy analysis or supporting use remains unclear.",
+    "needs_full_text_review": true
+  }
+]

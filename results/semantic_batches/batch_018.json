@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_ef2af72d86095695b4745fe00fcef816",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular group-authentication framework invokes privacy, but the abstract does not specify anonymity or disclosure guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_efc5e5064d96509bb49830b4114d93e7",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Models intrusion detection against false-data injection, denial-of-service, and spoofing without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_f22e9e553f2a5009bd811ea285c3743c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes tracking through linked safety messages and key extraction from parked vehicles or roadside units.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f26fdcb2b82d5bd98a6ad44e57c07160",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicular edge authentication and confidentiality during mobility across server boundaries.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f32955a52f125adeb1408d5fb95d2675",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Applies STRIDE and ATT&CK to software-defined vehicle networks, but privacy-specific findings remain unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f361231c25105a2ea7ad0df89379bdbf",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes unlawful interception and eavesdropping on location-bearing V2X exchanges.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f3a400fc75f15ea0ab96b7490e991b46",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Biometric smartphone authentication acknowledges vehicular privacy concerns but does not specify privacy threats or guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f4fb9060e036592f8d05985316f2123a",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional anonymity, nonframeability, and tracing across vehicular authentication domains using zero-knowledge proofs.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f556b0f850025bf08fecff93747e2c2f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymous vehicular authentication against impersonation and privileged-insider attacks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f5d7e84cd43159de8454008d92023429",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses misuse of private vehicle information and anonymous authentication while avoiding key escrow.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f76773520005556bb035fbd6ee0a1833",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Restricts former roadside members' access to communications, but personal-data privacy and identity protection are not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f87d2d364ed45b64a3c9d73db12c0b62",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Platoon encryption provides access control and revocation, but the abstract frames safety rather than concrete personal-privacy risks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_f94d926a70d55042aeb426816435e09c",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive TARA methodology synthesis may support threat-modeling context, but privacy-specific relevance remains unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fa30d84bb56e52129ab5cecb7bc01e11",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous biometric vehicle-user authentication across fog domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fa4ca97a945c56318a141b2c06eede14",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes private vehicular data protection using homomorphic encryption and hybrid-chain authentication across domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fac367275cc657babdedbb237557a2e9",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymous vehicle-cloud key exchange and protected traffic-data aggregation under active and passive attackers.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_faf4e38ed47f5487a6f54aac51927a9e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicle message linkability and traceability attacks in conditional-privacy batch authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fbdf57dc0cca5f31a6d54b7890578220",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Ring-signature reputation sharing claims privacy, but concrete anonymity, linkability, or disclosure guarantees are not specified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fbf8798e8a7a508c85cddb9b152fc497",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Automotive fuzzing analyzes confidentiality among security goals, but concrete personal-data privacy findings are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fc17fcd93e5d5c52a223d82c3d7e982b",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Driver-privacy authentication uses pseudo-identities, but the abstract primarily reports performance without specifying privacy attack analysis.",
+    "needs_full_text_review": true
+  }
+]

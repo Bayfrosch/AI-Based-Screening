@@ -1,0 +1,42 @@
+[
+  {
+    "paper_id": "paper_fc516d256aa45fd6a32eeec456b602d3",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes privacy shortcomings of LTE-V2X architecture and evaluates a compatible privacy-preserving security scheme.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fd2cbc19fdbb546190da09792216d431",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes vehicular privacy leakage, pseudonymous certificates, conditional tracing, and accountable revocation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fd6657fbf2c6543cbec57fd5908171a0",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates dynamic-pseudonym identity protection during vehicular registration and mutual authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_fd7c10a39f3d5f18aa1e1830e1a56b35",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes semantic privacy during encrypted vehicular data deduplication using a two-party protocol without trusted intermediaries.",
+    "needs_full_text_review": true
+  }
+]

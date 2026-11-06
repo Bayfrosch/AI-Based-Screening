@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_9e7e3bfdca385fd7ba6631cb2f5b2bdf",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes temporary vehicle identities and anonymous authentication within roadside-unit coverage.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9ee09e4d12865cfbbdd60c7f448c72b8",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional identity privacy during blockchain-supported location-based services and changing vehicle addresses.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_9f2d9d4da7fb541d9db3fb5800e3bdd1",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "LTE-V2X study claims privacy analysis, but described experiments measure platoon safety and do not identify privacy findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a007ea65326e561d89e849a6caca4106",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Uses biohash protection for sensitive user information in UAV-assisted vehicular authentication and evaluates security.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a0b73af40fd255c1890335fbf63b987e",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Quantum-assisted multi-server authentication addresses latency, resilience, and channel attacks without substantive privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_a1eafa8471a45dbc951852e45388ec7e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates protection of sensitive transportation images against disclosure during transmission.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a334ed14ecfc5b70a3400a486d1554a3",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive attack-feasibility assessment may support threat analysis, but privacy impacts or a specific supporting use are not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a3b54812b08c5080be954ff9617231f7",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "CAV security-design survey considers privacy trade-offs, but its concrete privacy-threat coverage requires clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a4be1bfd6c525a36b64285b2af571951",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Selective encrypted vehicular sensory-data sharing may address disclosure, but the personal-privacy dimension is insufficiently described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a524aeb974a95bbbb1c8710635b95b3a",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymity, conditional traceability, and key-escrow limitations in vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a6b1a31a39ec53dcacbe84b539536d22",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Location-service announcement scheme claims privacy protection, but specific privacy exposures and guarantees are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a830d0cdf65d53999c95b8e5ddc7f4a0",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "UAV infrastructure-less authentication mentions user privacy, but the contribution's privacy analysis is unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a87f74b997da569a8c8bead54eae0d6b",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "UAV-assisted vehicular authentication acknowledges privacy issues without specifying personal-data risks or privacy properties.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a89fd0d348685e4ebd3f6247fbf7d547",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes decentralized identifiers and credentials to preserve vehicle identity privacy during platoon admission.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_a8e5887303d55cdda8e6461cd5989726",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Autonomous-vehicle risk assessment mentions privacy but does not identify privacy-specific attack scenarios or findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_aaccc95774275d8dbe435e6f12eb3677",
+    "decision": "INCLUDE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Experimentally demonstrates vehicle tracking despite pseudonym changes under a realistic attacker model.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_aaec08f2e9345cf2bdb7a116db2eab16",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Automotive design patterns target firmware integrity, intrusion detection, and unauthorized messages without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_ac2796d5675058938043a90135e3eec7",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Hybrid threat-framework survey mentions privacy and compliance, but its specific supporting privacy contribution is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ad8e1171503a5df7b5ddebd75b5f0dbd",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes location privacy during vehicular sensory-data aggregation and blockchain-supported sharing.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_adc39a1cf8a056e2a4563af5990e307c",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Trust-management authentication includes a privacy keyword, but substantive privacy properties and personal-data exposures are not described.",
+    "needs_full_text_review": true
+  }
+]

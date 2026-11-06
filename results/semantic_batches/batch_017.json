@@ -1,0 +1,204 @@
+[
+  {
+    "paper_id": "paper_e4abc744a7f25dff9c93f5dc15b885a3",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies STRIDE and LINDDUN to user-centric vehicle, cloud, and device interactions, analyzing personal-data disclosure and unauthorized access.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e4fa3a9a0348517cb7a733c079e5b154",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "RFID vehicular-cloud authentication mentions user privacy but does not specify privacy threats or analyzed protection properties.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e594ed0976d25ce29c3a782a840a95be",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "VLC platooning threat model may address disclosure, but the abstract specifies resilience and safety rather than concrete privacy findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e5cd085293d15bc6948d69a786bd02c0",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous content access and conditional revocation across vehicular caching and edge providers.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e74014d247345725a94f37f92a71a693",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Classic-AUTOSAR update threat analysis may contain privacy risks, but the abstract does not identify them.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e7a70a9e7e255e6b832626cbdf89d9ba",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular signcryption cryptanalysis addresses key replacement and collusion, but the concrete privacy consequence remains unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e946355572435beea1ff7f36f21fea5a",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes key escrow and backward-secure pseudonym generation under vehicle control in fog authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e99c82c7fddd5207adea8b1a31c96dd2",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "WAVE advertisement analysis emphasizes denial-of-service; privacy appears in keywords, requiring clarification of any disclosure findings.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e9c2c0f1659a5d95ad52c0fd504e23a1",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Transportation big-data security architecture may support context, but its specific privacy contribution is not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e9d150926b9457e2b59686b49eeea6ac",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes centralized sensitive-data breach risks, vehicle identity anonymity, and conditional tracing in traffic-information services.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ea059a2ed0a8517a813d2f1ee05681f0",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional traceability and key-escrow limitations in blockchain-supported vehicular edge authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ea7be77749b6581f8c60a897a9ec7252",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Comprehensive automotive intrusion survey may contain privacy-relevant attacks, but the abstract does not establish that scope.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ea8421df59c45353be7dbe4081fd1a5c",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Fog-based vehicular key agreement supports privacy protection, but the abstract does not specify anonymity or disclosure guarantees.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ea9a9ec8d613500dbf7e03a3bdd30d5f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes sensitive personal-content exposure to untrusted vehicular caching providers and evaluates protective blockchain mechanisms.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_eb092e40d94c528c8fd29e251b4f4a5a",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Demonstrates aggregate-signature forgery for network-security education; vehicular privacy is background rather than the analyzed contribution.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_ed85f24469225041bda0925d0c91d840",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "OTA threat analysis applies CIAA and STRIDE, but concrete privacy exposure and findings are unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_eda4ca9da1e557769e01cd6242e7433e",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive threat-modeling tool discusses compliance and safety, but a privacy-specific application or supporting contribution remains unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ee3892f4187e59aebaa60badced6bff4",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Reviews privacy-preserving roaming and vehicular handovers, but concrete privacy-threat coverage and mobility-specific findings require clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ef081d1fd5ee5cfaabe0e6c9d3a3c48a",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes location, trajectory, and identity disclosure through misbehavior feedback scores and evaluates private aggregation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ef1bdd71d9b25de2a4b7f5f8d8787a27",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes dual-layer vehicle anonymity, evolving pseudonyms, conditional tracing, and privacy-preserving revocation.",
+    "needs_full_text_review": true
+  }
+]

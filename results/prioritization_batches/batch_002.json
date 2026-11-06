@@ -1,0 +1,354 @@
+[
+  {
+    "paper_id": "paper_263db630aa99536eb27016190cdf9fab",
+    "scores": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies traceability and leakage failures under semi-trusted infrastructure, useful for explaining why claimed protocol security may not ensure privacy."
+  },
+  {
+    "paper_id": "paper_29e18ab13ba35ebd996edf9ea1c9c85c",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers coordinated anonymous status updates alongside Sybil resistance; useful supporting protocol context."
+  },
+  {
+    "paper_id": "paper_2a34c1ae1d4f5a9b849c62085f3e649d",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains location cloaking and trust-based protection in vehicular location services, without detailed adversarial scenarios in the abstract."
+  },
+  {
+    "paper_id": "paper_2af5d62f2e925592b7158609cf230e28",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides anonymous group-authentication context; primary emphasis is managing simultaneous access and communication costs."
+  },
+  {
+    "paper_id": "paper_2c3bdcf736245475a01f698f477f138e",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Combines anonymous communication and decentralized trust, useful for complementary authentication/accountability discussion."
+  },
+  {
+    "paper_id": "paper_31814ec5904c56b287c7f2157250ad67",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Connects anonymous handovers and model-parameter confidentiality in vehicular federated learning; specific inference attacks are not described."
+  },
+  {
+    "paper_id": "paper_32401c5eea69516fbee23bcc315dfa8e",
+    "scores": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Demonstrates failed anonymity and key disclosure in an allegedly secure fog protocol, directly supporting limitations and adversarial analysis."
+  },
+  {
+    "paper_id": "paper_335f230b5bca5b1dacbaa06a0b0cdcfd",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports identity-privacy and edge-proxy trust discussion, with protocol design and efficiency more prominent than detailed exposure scenarios."
+  },
+  {
+    "paper_id": "paper_35297ec647115e5f955c56bd8eaff97b",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Anonymity is a supporting property in a combined authentication/antenna design, offering limited direct privacy-threat explanation."
+  },
+  {
+    "paper_id": "paper_3748b61b107653d58c92fa11d896dcfd",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides cross-domain policy hiding and revocation context; concrete personal-data exposure is not developed in the abstract."
+  },
+  {
+    "paper_id": "paper_38574e34259f56fe954f805fa164dcdb",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Illustrates location privacy during sensor aggregation, with protection design more developed than adversary assumptions."
+  },
+  {
+    "paper_id": "paper_3c3bcff86be958f0af85e7396b7e736d",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly links stolen owner identity and location to attacker scenarios, supporting concrete vehicular privacy-threat explanation."
+  },
+  {
+    "paper_id": "paper_403a84a6b5a65aa6a4772984ec718ff3",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides anonymity-related cryptanalysis and corrected authentication, useful supporting evidence rather than detailed mobility privacy modeling."
+  },
+  {
+    "paper_id": "paper_406924559dd15b85b8434c92e5791cdd",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Illustrates sensitive-key extraction and compromised-device assumptions; connection to concrete mobility privacy harms is secondary."
+  },
+  {
+    "paper_id": "paper_42e1952e201c5097b42f6542f81015d5",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains confidentiality of shared vehicle sensing and learned models across manufacturers, adding a stakeholder data-sharing perspective."
+  },
+  {
+    "paper_id": "paper_44108b65f1f759118cf68a911eeb1787",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Models malicious advertising stakeholders and sensitive customer disclosure, exposing limitations of honest-party assumptions in mobility services."
+  },
+  {
+    "paper_id": "paper_44873275c91456deb85a309c3bf90307",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Dynamic pseudonym updating supplies supplementary privacy-mechanism context; detailed threats and harms are not specified."
+  },
+  {
+    "paper_id": "paper_4545c967281b58c689f7f22c88be6462",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides a clear PII access-control example in distributed vehicular clouds, with limited explicit attacker development."
+  },
+  {
+    "paper_id": "paper_45e3a25c9bed5958855cdba73ec974a5",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Anonymity complements post-quantum authentication; central findings concern cryptographic security and computational efficiency."
+  },
+  {
+    "paper_id": "paper_4964d13ca05c55b2b57da07950c78c9d",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports discussion of key escrow and centralized pseudonym control, rather than concrete tracking or disclosure scenarios."
+  }
+]

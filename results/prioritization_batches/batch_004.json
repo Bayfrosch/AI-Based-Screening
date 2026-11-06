@@ -1,0 +1,360 @@
+[
+  {
+    "paper_id": "paper_6d1cc4a712575c69ae862ea45abe926d",
+    "scores": [
+      2,
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies anonymity-exposure attacks in an existing vehicular protocol, providing direct evidence for privacy-assurance limitations."
+  },
+  {
+    "paper_id": "paper_6d6da789789f50b893bacf652ccd4d76",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Anonymous registration and group-key updates offer complementary protocol examples, with limited privacy-adversary detail."
+  },
+  {
+    "paper_id": "paper_6d7068f463c35c2698ef5c000ca34c95",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "T",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Makes trajectory disclosure to an untrusted crowdsensing platform explicit, including workers, query users and collaborating fog infrastructure."
+  },
+  {
+    "paper_id": "paper_6f0008b91da256c488014137596a5ae7",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides pseudonymity and access control in digital-twin infrastructure; detailed privacy scenarios remain secondary to authentication design."
+  },
+  {
+    "paper_id": "paper_70a345462a3d53c5bbf7b2c65315ed73",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds vehicle-to-grid private-data leakage as a specific service example, with limited developed attacker analysis."
+  },
+  {
+    "paper_id": "paper_7537f4cca2de5c97b9f0839dbb901a40",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains hiding unrelated subscriptions from vehicular access providers, adding cross-service disclosure and credential-management context."
+  },
+  {
+    "paper_id": "paper_7c1d3beea4ec5778be1613c0a564f706",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides conditional identity privacy in blockchain-edge authentication, chiefly as supplementary mechanism evidence."
+  },
+  {
+    "paper_id": "paper_7c8d638ac27a56dcaa4c8caff6f7aa75",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explains recipient privacy and task confidentiality in vehicular clouds, with useful trusted-dealer limitations but little explicit attacker development."
+  },
+  {
+    "paper_id": "paper_7cd5d1d9163b5d138f2b263f0e9e1e0a",
+    "scores": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Speech cipher design offers supplementary communication protection, but concrete personal-privacy harms and adversarial conditions are unspecified."
+  },
+  {
+    "paper_id": "paper_7d5f063becac5c6696b4272ab98dbcaa",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Adds anonymous cross-domain authentication and distributed authority roles, primarily complementary to concrete threat analysis."
+  },
+  {
+    "paper_id": "paper_7d62364542295afbb09b4601fe24ea4e",
+    "scores": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Provides privacy-oriented protection of diverse vehicular messages, but the abstract leaves specific privacy attacks and outcomes broad."
+  },
+  {
+    "paper_id": "paper_7df4f3741f005715a9ab0f69119978e2",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Supports discussion of side-channel data leakage and key-disclosure defenses, with limited mobility-specific privacy-harm detail."
+  },
+  {
+    "paper_id": "paper_7e11a2e34f085e02b5a4142c59fb57cb",
+    "scores": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Adds battery-swapping anonymity and untraceability as a complementary service example; developed privacy scenarios are absent."
+  },
+  {
+    "paper_id": "paper_801ad633cc905d1ab052ce550fe25b01",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Offers anonymous key agreement and fine-grained access context, with cryptographic efficiency more prominent than privacy-threat explanation."
+  },
+  {
+    "paper_id": "paper_82186f2c48a85cbd824d470f288095c7",
+    "scores": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      0
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Provides emergency-request identity privacy and unlinkability properties, useful supplementary authentication evidence."
+  },
+  {
+    "paper_id": "paper_82db1b521cd15a33a9df39b884cdfc5e",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "theme_codes": [
+      "L",
+      "T",
+      "V",
+      "M",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Explicitly examines anonymity-abuse and traceback trade-offs, including reconstructed vehicle path information."
+  },
+  {
+    "paper_id": "paper_843c0c6527ce546caf6d5e078a8e3325",
+    "scores": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "A",
+    "priority_reason": "Automotive threat elicitation integrates pseudonymization and data minimization; useful applied-model example whose detailed privacy findings need full-text verification."
+  },
+  {
+    "paper_id": "paper_84c7de00bb985bd09236838c37933cb4",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "D"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Identifies vehicle/UAV location tracking in transportation, but develops protection mechanisms more than privacy attack scenarios."
+  },
+  {
+    "paper_id": "paper_8634f94e8b445464bba30b58ddb29e36",
+    "scores": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "theme_codes": [
+      "L",
+      "V",
+      "M",
+      "D",
+      "O"
+    ],
+    "contribution_focus": "D",
+    "priority_reason": "Connects location/identifier leakage, consent and illegal cross-stakeholder transfers, useful for concrete vehicular data-flow privacy analysis."
+  },
+  {
+    "paper_id": "paper_87460cabd2ea5397852d75e9fd31b7a7",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "theme_codes": [
+      "V",
+      "D"
+    ],
+    "contribution_focus": "G",
+    "priority_reason": "Supports anonymous group authentication and unlinkability under collusion resistance, without developed mobility-specific exposure scenarios."
+  }
+]

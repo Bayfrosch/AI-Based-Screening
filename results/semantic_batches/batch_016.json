@@ -1,0 +1,202 @@
+[
+  {
+    "paper_id": "paper_d8ae78debb1d5404a48e78e7a2d70137",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Automotive-chip encryption prevents unauthorized access, but whether the protected data or analysis concerns personal privacy is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_d9810e2960f2526983466dc6915112d1",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates deidentification of driver-face videos for sharing naturalistic-driving research data while retaining behavioral attributes.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_da1f110ea6385927bc255c6a0df497ec",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Blockchain trust computation claims conditional privacy, but concrete anonymity or disclosure analysis is not specified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_da2d90495e9b532d8a084e7cb1d76239",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymity and untraceability requirements against eavesdropping and insider threats in vehicular authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_dc066cea496a5651a88607b397279d22",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates zero-knowledge authentication to preserve vehicle-user privacy across distributed SDN domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_dd5315729a4e59679a7c576406ee680c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes theft and misuse of real vehicle identities and evaluates drone-assisted anonymous authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_ddd332dd15385498b54d3b3a2f989719",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models semi-honest stakeholders, route and habit disclosure, and persistent user-controlled policies across organizational boundaries.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_de38eb01216757bc952a799036c494a7",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Uses electromagnetic fault injection to reproduce automotive safety faults rather than privacy threats.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_de5f5de4098c502eac34f006ccd552d0",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Detects replay, fuzzing, and denial-of-service attacks on automotive Ethernet without substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_df44035466d756389c4a91883652bca0",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicular credentials and zero-knowledge identity recognition during group-key distribution.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e0d6985aab265f9987215cb9b2083768",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Describes industrial collaboration for software-defined vehicles without substantive privacy threat analysis or supporting privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_e1088cabd0ec55d5a2852bc3a806a86e",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models unauthorized driver-information disclosure by untrusted cloud servers and evaluates identity and report privacy protections.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e1356f29c71b54ff86cd4a9b1953abad",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Checks integrity and recovery of maritime trajectory data; privacy leakage or misuse is not the studied problem.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_e14ef89549d75aa6b6a13d4464faf080",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular trust scoring processes sensitive data and behavioral patterns, but privacy exposure and protection are not analyzed explicitly.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e15e695a2d045be3bf0b9ec47d60ab7f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates vehicle-user privacy for location-bearing message dissemination against physical, cloning, and side-channel attacks.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e20d8925a42356989ff4020b5644eac7",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional privacy and pseudonym management across geographic and administrative vehicular domains.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e357943757b35b91a6afcbeaf4ef3b9c",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "PUF authentication claims privacy in its title, but concrete privacy properties and exposures are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e4347d7c6f8c59e7abdbd4453ab1b6fe",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Biometric user-to-vehicle authentication includes privacy keywords, but its privacy-specific analysis is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_e43fa54736945bdb9440b57a02e96559",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Simulates mission degradation and attack-defense interactions for transportation dependability without privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_e479c60a02d9522d98d9d14e9f21643f",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicle identities, accountable tracing, and secure cross-domain cloud-query access.",
+    "needs_full_text_review": true
+  }
+]

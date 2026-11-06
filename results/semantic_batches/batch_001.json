@@ -1,0 +1,205 @@
+[
+  {
+    "paper_id": "paper_0044660aa17e5a7db4efbb6951cbaea9",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "V2X PKI architecture claims privacy benefits, but the abstract does not identify concrete privacy exposures or protection properties.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0071b7b1a39a58beabde8dc0b914d731",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional vehicular privacy and side-channel key leakage while evaluating an authentication mitigation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0118479a08e55012ad61f0abf2646c4f",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Pseudonym batching supports anonymous authentication; concrete privacy threats and their evaluation remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_01b490edd7445a809a01651f347b99fd",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Protects vehicle feedback providers from individual disclosure during cloud-assisted reputation aggregation.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0210cd25c46551b5ba4844f485f3202f",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular authentication addresses adversaries, but privacy-specific threats and properties are insufficiently distinguished from general security.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_022a16e08d5e5e0ea4c2dcb2c63511d1",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicle-owner authorization and role-based access explicitly protect private vehicular data against uncontrolled disclosure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_02b2e8e5015b535eac46d4c61713b5e2",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional privacy, authorized tracing, and ciphertext confidentiality in vehicular collision-warning communications.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_02e61d5265715847aeeeeb7bca278dd7",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Multi-cloud authentication claims conditional privacy, but the abstract leaves the protected information and privacy threats unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_03079448ae715c4ea24d2623109d9288",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular data-sharing encryption may protect sensitive information, but the abstract emphasizes key updating without specifying privacy exposure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0398c7540e02547b91fda85abb322e0b",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Defines access-control security models addressing unauthorized access and misuse of encrypted vehicular data.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_03a57a1c02d4522487126e495729946f",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1",
+      "I2"
+    ],
+    "reason": "Vehicle vulnerability assessment mentions privacy impacts, but concrete privacy threat findings are not described.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_05592320d11352fea7475fd635879117",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Uses pseudonyms and re-encryption to analyze anonymous vehicular authentication and controlled content disclosure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_06633fe9993854879674223304e94422",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses association and privacy mining by semi-trusted roadside infrastructure through anonymity and unlinkability protections.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_076b1adfa67b5d2f9b2b36328ff56fc1",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Evaluates anonymity and untraceability against vehicular attack vectors in a two-factor authentication scheme.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0782bee97a5958c0b5a1bfef9fcab514",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Presents automotive cybersecurity training hardware and CAN simulation, without privacy-related analysis or supporting privacy content.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_086bb3c5f52d515fb6e6a230f44d064d",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Automotive threat-identification tooling may support architectural analysis, but the abstract does not establish a privacy contribution.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_087798aeace555768fc452a10aab1b63",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Quantum-resistant vehicular provenance claims privacy; whether it protects personal information beyond integrity and source authentication is unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0a4a99c43ee35e1eaf12dcb87c8b1cec",
+    "decision": "EXCLUDE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "E1",
+      "E4"
+    ],
+    "reason": "Develops a generic cybersecurity threat-assessment method; transportation is illustrative and no substantive privacy application is established.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_0a62962aee87502b8badfbaa9cbb71a4",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Secures location-bearing vehicular messages, but privacy appears only in keywords and the protected privacy properties remain unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0a7a0e4adb0850d1a7c99bf588cdbe92",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes previous vehicular authentication privacy weaknesses and proposes protection against identity-guessing and related attacks.",
+    "needs_full_text_review": true
+  }
+]

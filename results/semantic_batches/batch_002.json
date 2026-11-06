@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "paper_0b2ce068b5115ecd9ff4a2e4ea5b48b4",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Models denial-of-service effects on vehicular communication availability and survivability, without privacy-related analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_0b8c8127b259527fa88bc12adba3b5c3",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes malicious publishers, data breaches, and receiver-attribute disclosure in vehicular social-network access policies.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0bf9320b040c5dc6bbbb64e47b06f241",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Blockchain key agreement addresses traffic-message security and transaction efficiency without a substantive privacy analysis.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_0ca4cc826456589a8bfe84446c8290b5",
+    "decision": "MAYBE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Applies threat frameworks to vehicle communications, but confidentiality is not connected to concrete personal-data risks in the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0cc1a7afc13e54b4a19517a3b03e678f",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Digital-twin authentication invokes privacy, but specific personal-data exposures and privacy guarantees remain unspecified.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0e49ffacf5dd568b922a259f06945c16",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Models semi-honest cloud processing and protects sensitive driver behavioral features from exposure during implicit authentication.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_0f767f6497a25ec6aac68c4158854ed5",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses cybertwin disclosure of users' digital assets through vehicular stakeholder controls and zero-knowledge verification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_105ddd3d15c35395b9d46c39177809de",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Develops a CAN cybersecurity simulation and training environment, without privacy threat analysis or privacy-related evidence.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_108e36360e5b5ac9bafdb4bcce2220fd",
+    "decision": "INCLUDE",
+    "research_role": "CORE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Systematically analyzes toll-system location tracking, privacy properties, collusion attacks, and weaknesses of existing protections.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_10f8e8a3fd305c2abd89f390c674cb6a",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Evaluates blockchain batch authentication and signature efficiency, without a substantive privacy property or privacy threat contribution.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_11a54de5c8915e3a944b25ddc6d67fd8",
+    "decision": "MAYBE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Transportation threat-mapping methodology may support data-flow analysis, but privacy-specific findings are not established.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_1349987985ba598c86c43edfcd077660",
+    "decision": "MAYBE",
+    "research_role": "THREAT_EVIDENCE",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Hardware Trojan analysis demonstrates toll manipulation and mentions data breaches; substantive privacy exposure requires clarification.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_14712c8e0ae358d9be11b89e18d71ce1",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes anonymous vehicular announcements and authorized identity tracing under partially trusted infrastructure.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_14bb0a0ffe825385ae2a6bded6d30095",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Federated traffic prediction claims user and model privacy, but concrete leakage threats or privacy guarantees are unclear.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_14bbb70a4d2056cc9ca0b81be85d4f51",
+    "decision": "EXCLUDE",
+    "research_role": "FRAMEWORK_FOCUSED",
+    "matched_criteria": [
+      "E1",
+      "E4"
+    ],
+    "reason": "Develops a generic security-pattern threat-modeling framework evaluated in healthcare, without a substantive privacy contribution.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_15b8c847758352c7bb1c178ed0e8c11c",
+    "decision": "EXCLUDE",
+    "research_role": "OUT_OF_SCOPE",
+    "matched_criteria": [
+      "E1"
+    ],
+    "reason": "Discusses automotive security-operation centers and threat-intelligence integration without privacy-focused analysis or evidence.",
+    "needs_full_text_review": false
+  },
+  {
+    "paper_id": "paper_168e6af92b6f5b2899d0343d4c33e70c",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Addresses unauthorized vehicular access, forward-secrecy weaknesses, and conditional privacy through multi-scenario key exchange.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_177fcc1e572c57b3bf0d9c858f7f55cc",
+    "decision": "MAYBE",
+    "research_role": "BACKGROUND",
+    "matched_criteria": [
+      "I2"
+    ],
+    "reason": "Aging-focused mobility architecture includes health monitoring and privacy safeguards, but concrete privacy risks are not analyzed in the abstract.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_17863868eb715ca1963c4995fcf2267b",
+    "decision": "INCLUDE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Analyzes conditional identity traceability within privacy-protecting vehicular aggregate signatures.",
+    "needs_full_text_review": true
+  },
+  {
+    "paper_id": "paper_18ad0695f2a259a484f0df268fde6ae9",
+    "decision": "MAYBE",
+    "research_role": "MITIGATION",
+    "matched_criteria": [
+      "I1"
+    ],
+    "reason": "Vehicular access-control vulnerabilities and collusion may affect privacy, but the abstract does not identify the exposed information.",
+    "needs_full_text_review": true
+  }
+]
